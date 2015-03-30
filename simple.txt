@@ -1,0 +1,2 @@
+hi this new file in second branch
+i am just learning how to do in Git file

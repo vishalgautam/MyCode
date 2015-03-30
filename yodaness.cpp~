@@ -1,0 +1,89 @@
+#include<iostream>
+#include<map>
+#include<string>
+#include<map>
+#include<vector>
+#include<fstream>
+std::map<std::string,int> Map;
+std::vector<std::string> List;
+std::vector<std::string> OrdList;
+int count;
+using namespace std;
+bool compare(string s,string e){
+    int first=Map.find(s)->second;
+    int second=Map.find(e)->second;
+    if(first<second)
+        return true;
+    return false;
+}
+void merge(int s,int m,int e){
+    std::vector<std::string> temp;
+    int i=s,j=m+1;
+    while(i<=m&&j<=e){
+        if(compare(List[i],List[j])){
+            temp.push_back(List[i]);
+            i++;
+        }
+        else {
+            count++;
+            temp.push_back(List[j]);
+            j++;
+        }
+    }
+    if(i<=m){
+        while(i<=m){
+            temp.push_back(List[i]);
+            i++;
+        }
+    }
+    else if(j<=e){
+        while(j<=e){
+            temp.push_back(List[j]);
+            j++;
+        }
+    }
+    std::vector<string>::iterator start=temp.begin(),end=temp.end();
+    while(start!=end){
+        List[s++]=*start;
+        start++;
+    }
+}
+void mergesort(int s,int e){
+    if(s<e){
+        if((e-s)==1&&compare(List[s],List[e])==false){
+            count++;
+            List[s].swap(List[e]);
+        }
+        else if((e-s)!=1){
+            int mid=s+(e-s)/2;
+            mergesort(s,mid);
+            mergesort(mid+1,e);
+            merge(s,mid,e);
+        }
+    }
+}
+int main(){
+    int T,N,j;
+    string str;
+    //std::ifstream cin("input.txt");
+    cin>>T;
+    for(int t=1;t<=T;t++){
+        cin>>N;
+        for(j=0;j<N;j++){
+            cin>>str;
+            List.push_back(str);
+            
+        }
+        for(j=0;j<N;j++){
+            cin>>str;
+            OrdList.push_back(str);
+            Map.insert(std::pair<string,int>(str,j));
+        }
+        count=0;
+        mergesort(0,N-1);
+        List.clear();
+        Map.clear();
+        cout<<count<<endl;
+    }
+    return 0;
+}

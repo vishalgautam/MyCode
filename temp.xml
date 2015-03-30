@@ -1,0 +1,48 @@
+const int ABSOLUTE_PATH_FILENAME_PREFIX_SIZE = 9;
+
+void OutputXML(xercesc::DOMDocument* pmyDOMDocument, std::string filePath)
+{
+    //Return the first registered implementation that has the desired features. In this case, we are after a DOM implementation that has the LS feature... or Load/Save.
+    DOMImplementation *implementation = DOMImplementationRegistry::getDOMImplementation(L"LS");
+
+    // Create a DOMLSSerializer which is used to serialize a DOM tree into an XML document.
+    DOMLSSerializer *serializer = ((DOMImplementationLS*)implementation)->createLSSerializer();
+
+    // Make the output more human readable by inserting line feeds.
+    if (serializer->getDomConfig()->canSetParameter(XMLUni::fgDOMWRTFormatPrettyPrint, true))
+        serializer->getDomConfig()->setParameter(XMLUni::fgDOMWRTFormatPrettyPrint, true);
+
+    // The end-of-line sequence of characters to be used in the XML being written out. 
+    serializer->setNewLine(XMLString::transcode("\r\n")); 
+
+    // Convert the path into Xerces compatible XMLCh*.
+    XMLCh *tempFilePath = XMLString::transcode(filePath.c_str());
+
+    // Calculate the length of the string.
+    const int pathLen = XMLString::stringLen(tempFilePath);
+
+    // Allocate memory for a Xerces string sufficent to hold the path.
+    XMLCh *targetPath = (XMLCh*)XMLPlatformUtils::fgMemoryManager->allocate((pathLen + ABSOLUTE_PATH_FILENAME_PREFIX_SIZE) * sizeof(XMLCh));
+
+    // Fixes a platform dependent absolute path filename to standard URI form.
+    XMLString::fixURI(tempFilePath, targetPath);
+
+    // Specify the target for the XML output.
+    XMLFormatTarget *formatTarget = new LocalFileFormatTarget(targetPath);
+    //XMLFormatTarget *myFormTarget = new StdOutFormatTarget();
+
+    // Create a new empty output destination object.
+    DOMLSOutput *output = ((DOMImplementationLS*)implementation)->createLSOutput();
+
+    // Set the stream to our target.
+    output->setByteStream(formatTarget);
+
+    // Write the serialized output to the destination.
+    serializer->write(pmyDOMDocument, output);
+
+    // Cleanup.
+    serializer->release();
+    XMLString::release(&tempFilePath);
+    delete formatTarget;
+    output->release();
+

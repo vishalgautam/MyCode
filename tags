@@ -1,0 +1,1102 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABSOLUTE_PATH_FILENAME_PREFIX_SIZE	temp.cpp	/^const int ABSOLUTE_PATH_FILENAME_PREFIX_SIZE = 9;$/;"	v
+ADDRESS	singleServerMultipleClientSrc/client/myHostInfo.h	/^enum hostType {NAME, ADDRESS};$/;"	e	enum:hostType
+ADDRESS	singleServerMultipleClientSrc/server/myHostInfo.h	/^enum hostType {NAME, ADDRESS};$/;"	e	enum:hostType
+ATTR_Branch	parser.cpp	/^   XMLCh* ATTR_Branch;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Branch	parser1.cpp	/^   XMLCh* ATTR_Branch;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Code	parser.cpp	/^   XMLCh* ATTR_Code;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Code	parser1.cpp	/^   XMLCh* ATTR_Code;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Que_no	parser.cpp	/^   XMLCh* ATTR_Que_no;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Que_no	parser1.cpp	/^   XMLCh* ATTR_Que_no;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Regno	parser.cpp	/^   XMLCh* ATTR_Regno;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Regno	parser1.cpp	/^   XMLCh* ATTR_Regno;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Year	parser.cpp	/^   XMLCh* ATTR_Year;$/;"	m	class:GetConfig	file:	access:private
+ATTR_Year	parser1.cpp	/^   XMLCh* ATTR_Year;$/;"	m	class:GetConfig	file:	access:private
+CREATE	singleServerMultipleClientSrc/server/mySemaphore.h	5;"	d
+DEFAULT_LOG_LEVEL	singleServerMultipleClientSrc/client/myLog.cpp	/^const enum myLog::logLevels DEFAULT_LOG_LEVEL = myLog::LEVEL_1;$/;"	v	typeref:enum:logLevels
+ERROR_ARGS	parser.cpp	/^   ERROR_ARGS = 1, $/;"	e	enum:__anon2	file:
+ERROR_ARGS	parser1.cpp	/^   ERROR_ARGS = 1, $/;"	e	enum:__anon1	file:
+ERROR_EMPTY_DOCUMENT	parser.cpp	/^   ERROR_EMPTY_DOCUMENT$/;"	e	enum:__anon2	file:
+ERROR_EMPTY_DOCUMENT	parser1.cpp	/^   ERROR_EMPTY_DOCUMENT$/;"	e	enum:__anon1	file:
+ERROR_PARSE	parser.cpp	/^   ERROR_PARSE,$/;"	e	enum:__anon2	file:
+ERROR_PARSE	parser1.cpp	/^   ERROR_PARSE,$/;"	e	enum:__anon1	file:
+ERROR_XERCES_INIT	parser.cpp	/^   ERROR_XERCES_INIT,$/;"	e	enum:__anon2	file:
+ERROR_XERCES_INIT	parser1.cpp	/^   ERROR_XERCES_INIT,$/;"	e	enum:__anon1	file:
+EXIT_MSG_SIZE	singleServerMultipleClientSrc/client/myLog.h	/^const int EXIT_MSG_SIZE = 512;$/;"	v
+GetConfig	parser.cpp	/^   GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+GetConfig	parser.cpp	/^GetConfig::GetConfig()$/;"	f	class:GetConfig	signature:()
+GetConfig	parser.cpp	/^class GetConfig$/;"	c	file:
+GetConfig	parser1.cpp	/^   GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+GetConfig	parser1.cpp	/^GetConfig::GetConfig()$/;"	f	class:GetConfig	signature:()
+GetConfig	parser1.cpp	/^class GetConfig$/;"	c	file:
+GetConfig::ATTR_Branch	parser.cpp	/^   XMLCh* ATTR_Branch;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Branch	parser1.cpp	/^   XMLCh* ATTR_Branch;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Code	parser.cpp	/^   XMLCh* ATTR_Code;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Code	parser1.cpp	/^   XMLCh* ATTR_Code;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Que_no	parser.cpp	/^   XMLCh* ATTR_Que_no;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Que_no	parser1.cpp	/^   XMLCh* ATTR_Que_no;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Regno	parser.cpp	/^   XMLCh* ATTR_Regno;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Regno	parser1.cpp	/^   XMLCh* ATTR_Regno;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Year	parser.cpp	/^   XMLCh* ATTR_Year;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::ATTR_Year	parser1.cpp	/^   XMLCh* ATTR_Year;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::GetConfig	parser.cpp	/^   GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+GetConfig::GetConfig	parser.cpp	/^GetConfig::GetConfig()$/;"	f	class:GetConfig	signature:()
+GetConfig::GetConfig	parser1.cpp	/^   GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+GetConfig::GetConfig	parser1.cpp	/^GetConfig::GetConfig()$/;"	f	class:GetConfig	signature:()
+GetConfig::TAG_Checkedby	parser.cpp	/^   XMLCh* TAG_Checkedby;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Checkedby	parser1.cpp	/^   XMLCh* TAG_Checkedby;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Circle	parser.cpp	/^   XMLCh* TAG_Circle;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Circle	parser1.cpp	/^   XMLCh* TAG_Circle;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Class	parser.cpp	/^   XMLCh* TAG_Class;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Class	parser1.cpp	/^   XMLCh* TAG_Class;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Comment	parser.cpp	/^   XMLCh* TAG_Comment;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Comment	parser1.cpp	/^   XMLCh* TAG_Comment;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Cross	parser.cpp	/^   XMLCh* TAG_Cross;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Cross	parser1.cpp	/^   XMLCh* TAG_Cross;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Fullmarks	parser.cpp	/^   XMLCh* TAG_Fullmarks;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Fullmarks	parser1.cpp	/^   XMLCh* TAG_Fullmarks;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Hightext	parser.cpp	/^   XMLCh* TAG_Hightext;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Hightext	parser1.cpp	/^   XMLCh* TAG_Hightext;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Marks	parser.cpp	/^   XMLCh* TAG_Marks;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Marks	parser1.cpp	/^   XMLCh* TAG_Marks;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Quesmark	parser.cpp	/^   XMLCh* TAG_Quesmark;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Quesmark	parser1.cpp	/^   XMLCh* TAG_Quesmark;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Question	parser.cpp	/^   XMLCh* TAG_Question;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Question	parser1.cpp	/^   XMLCh* TAG_Question;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Student	parser.cpp	/^   XMLCh* TAG_Student;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Student	parser1.cpp	/^   XMLCh* TAG_Student;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Subject	parser.cpp	/^   XMLCh* TAG_Subject;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Subject	parser1.cpp	/^   XMLCh* TAG_Subject;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Tick	parser.cpp	/^   XMLCh* TAG_Tick;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::TAG_Tick	parser1.cpp	/^   XMLCh* TAG_Tick;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::m_ConfigFileParser	parser.cpp	/^   xercesc::XercesDOMParser *m_ConfigFileParser;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::readConfigFile	parser.cpp	/^   void readConfigFile(std::string&,std::string&) throw(std::runtime_error);$/;"	p	class:GetConfig	file:	access:public	signature:(std::string&,std::string&)
+GetConfig::readConfigFile	parser.cpp	/^void GetConfig::readConfigFile(string& configFile,string& temp)$/;"	f	class:GetConfig	signature:(string& configFile,string& temp)
+GetConfig::readConfigFile	parser1.cpp	/^   void readConfigFile(std::string&,std::string&) throw(std::runtime_error);$/;"	p	class:GetConfig	file:	access:public	signature:(std::string&,std::string&)
+GetConfig::readConfigFile	parser1.cpp	/^void GetConfig::readConfigFile(string &configFile,string &temp)$/;"	f	class:GetConfig	signature:(string &configFile,string &temp)
+GetConfig::tempparser	parser.cpp	/^   xercesc::XercesDOMParser *tempparser;$/;"	m	class:GetConfig	file:	access:private
+GetConfig::~GetConfig	parser.cpp	/^  ~GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+GetConfig::~GetConfig	parser.cpp	/^GetConfig::~GetConfig()$/;"	f	class:GetConfig	signature:()
+GetConfig::~GetConfig	parser1.cpp	/^  ~GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+GetConfig::~GetConfig	parser1.cpp	/^GetConfig::~GetConfig()$/;"	f	class:GetConfig	signature:()
+HOST_NAME_LENGTH	singleServerMultipleClientSrc/client/myHostInfo.h	/^const int HOST_NAME_LENGTH = 64;$/;"	v
+HOST_NAME_LENGTH	singleServerMultipleClientSrc/server/myHostInfo.h	/^const int HOST_NAME_LENGTH = 64;$/;"	v
+L0	singleServerMultipleClientSrc/client/myLog.h	/^const enum myLog::logLevels L0 = myLog::LEVEL_0;$/;"	v	typeref:enum:logLevels
+L1	singleServerMultipleClientSrc/client/myLog.h	/^const enum myLog::logLevels L1 = myLog::LEVEL_1;$/;"	v	typeref:enum:logLevels
+L2	singleServerMultipleClientSrc/client/myLog.h	/^const enum myLog::logLevels L2 = myLog::LEVEL_2;$/;"	v	typeref:enum:logLevels
+L3	singleServerMultipleClientSrc/client/myLog.h	/^const enum myLog::logLevels L3 = myLog::LEVEL_3;$/;"	v	typeref:enum:logLevels
+LEVEL_0	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_0,       \/\/ buffer all log messages$/;"	e	enum:myLog::logLevels
+LEVEL_1	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_1,       \/\/ buffer Level one, two and three log messages$/;"	e	enum:myLog::logLevels
+LEVEL_2	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_2,       \/\/ buffer Level two and three log messages$/;"	e	enum:myLog::logLevels
+LEVEL_3	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_3,       \/\/ buffer Level three log messages$/;"	e	enum:myLog::logLevels
+LOG_APPEND	singleServerMultipleClientSrc/client/myLog.h	/^const int LOG_APPEND = ios::app;$/;"	v
+LOG_WRITE	singleServerMultipleClientSrc/client/myLog.h	/^const int LOG_WRITE  = ios::out;$/;"	v
+LQUIET	singleServerMultipleClientSrc/client/myLog.h	/^const enum myLog::logLevels LQUIET = myLog::QUIET_MODE;$/;"	v	typeref:enum:logLevels
+LinkedList	main.cpp	/^  LinkedList () : head_(0) {};$/;"	f	class:LinkedList	access:public	signature:()
+LinkedList	main.cpp	/^class LinkedList {$/;"	c	file:
+LinkedList::LinkedList	main.cpp	/^  LinkedList () : head_(0) {};$/;"	f	class:LinkedList	access:public	signature:()
+LinkedList::delete_nodes	main.cpp	/^  void delete_nodes (void) {$/;"	f	class:LinkedList	file:	access:private	signature:(void)
+LinkedList::head_	main.cpp	/^  Node<T> *head_;$/;"	m	class:LinkedList	file:	access:private
+LinkedList::insert	main.cpp	/^  int insert (const T &new_item) {$/;"	f	class:LinkedList	access:public	signature:(const T &new_item)
+LinkedList::print	main.cpp	/^  void print (void) {$/;"	f	class:LinkedList	access:public	signature:(void)
+LinkedList::remove	main.cpp	/^  int remove (const T &item_to_remove) {$/;"	f	class:LinkedList	access:public	signature:(const T &item_to_remove)
+LinkedList::~LinkedList	main.cpp	/^  ~LinkedList () { delete_nodes (); };$/;"	f	class:LinkedList	access:public	signature:()
+MAX	temp.c	6;"	d	file:
+MAX_EXIT_CODES	singleServerMultipleClientSrc/client/myLog.h	/^const int MAX_EXIT_CODES = 3;$/;"	v
+MAX_MSG_LEN	singleServerMultipleClientSrc/client/mySocket.h	/^const int MAX_MSG_LEN = 1024;$/;"	v
+MAX_MSG_LEN	singleServerMultipleClientSrc/server/mySocket.h	/^const int MAX_MSG_LEN = 1024;$/;"	v
+MAX_NUM_CLIENTS	singleServerMultipleClientSrc/server/myThreadArgument.h	/^const int MAX_NUM_CLIENTS = 10;$/;"	v
+MAX_RECV_LEN	singleServerMultipleClientSrc/client/mySocket.h	/^const int MAX_RECV_LEN = 8096;$/;"	v
+MAX_RECV_LEN	singleServerMultipleClientSrc/server/mySocket.h	/^const int MAX_RECV_LEN = 8096;$/;"	v
+MSG_HEADER_LEN	singleServerMultipleClientSrc/client/mySocket.cpp	/^const int MSG_HEADER_LEN = 6;$/;"	v
+MSG_HEADER_LEN	singleServerMultipleClientSrc/server/mySocket.cpp	/^const int MSG_HEADER_LEN = 6;$/;"	v
+NAME	singleServerMultipleClientSrc/client/myHostInfo.h	/^enum hostType {NAME, ADDRESS};$/;"	e	enum:hostType
+NAME	singleServerMultipleClientSrc/server/myHostInfo.h	/^enum hostType {NAME, ADDRESS};$/;"	e	enum:hostType
+Node	main.cpp	/^  Node ();$/;"	p	class:Node	file:	access:private	signature:()
+Node	main.cpp	/^  Node (const T &value, Node<T> *next = 0) : value_(value), next_(next) {$/;"	f	class:Node	access:public	signature:(const T &value, Node<T> *next = 0)
+Node	main.cpp	/^class Node {$/;"	c	file:
+Node::Node	main.cpp	/^  Node ();$/;"	p	class:Node	file:	access:private	signature:()
+Node::Node	main.cpp	/^  Node (const T &value, Node<T> *next = 0) : value_(value), next_(next) {$/;"	f	class:Node	access:public	signature:(const T &value, Node<T> *next = 0)
+Node::next	main.cpp	/^  Node<T>* next () const { return next_; }$/;"	f	class:Node	access:public	signature:() const
+Node::next	main.cpp	/^  void next (Node<T> *new_next) { next_ = new_next; };$/;"	f	class:Node	access:public	signature:(Node<T> *new_next)
+Node::next_	main.cpp	/^  Node<T> *next_;$/;"	m	class:Node	file:	access:private
+Node::value	main.cpp	/^  const T& value () const { return value_; }$/;"	f	class:Node	access:public	signature:() const
+Node::value	main.cpp	/^  void value (const T &value) { value_ = value; }$/;"	f	class:Node	access:public	signature:(const T &value)
+Node::value_	main.cpp	/^  T value_;$/;"	m	class:Node	file:	access:private
+Node::~Node	main.cpp	/^  ~Node () {$/;"	f	class:Node	access:public	signature:()
+OPEN	singleServerMultipleClientSrc/server/mySemaphore.h	4;"	d
+OutputXML	temp.cpp	/^void OutputXML(xercesc::DOMDocument* pmyDOMDocument, std::string filePath)$/;"	f	signature:(xercesc::DOMDocument* pmyDOMDocument, std::string filePath)
+PORTNUM	singleServerMultipleClientSrc/client/mySocket.h	/^const int PORTNUM = 1200;$/;"	v
+PORTNUM	singleServerMultipleClientSrc/server/mySocket.h	/^const int PORTNUM = 1200;$/;"	v
+QUIET_MODE	singleServerMultipleClientSrc/client/myLog.h	/^      QUIET_MODE     \/\/ do not print out any messages$/;"	e	enum:myLog::logLevels
+TAG_Checkedby	parser.cpp	/^   XMLCh* TAG_Checkedby;$/;"	m	class:GetConfig	file:	access:private
+TAG_Checkedby	parser1.cpp	/^   XMLCh* TAG_Checkedby;$/;"	m	class:GetConfig	file:	access:private
+TAG_Circle	parser.cpp	/^   XMLCh* TAG_Circle;$/;"	m	class:GetConfig	file:	access:private
+TAG_Circle	parser1.cpp	/^   XMLCh* TAG_Circle;$/;"	m	class:GetConfig	file:	access:private
+TAG_Class	parser.cpp	/^   XMLCh* TAG_Class;$/;"	m	class:GetConfig	file:	access:private
+TAG_Class	parser1.cpp	/^   XMLCh* TAG_Class;$/;"	m	class:GetConfig	file:	access:private
+TAG_Comment	parser.cpp	/^   XMLCh* TAG_Comment;$/;"	m	class:GetConfig	file:	access:private
+TAG_Comment	parser1.cpp	/^   XMLCh* TAG_Comment;$/;"	m	class:GetConfig	file:	access:private
+TAG_Cross	parser.cpp	/^   XMLCh* TAG_Cross;$/;"	m	class:GetConfig	file:	access:private
+TAG_Cross	parser1.cpp	/^   XMLCh* TAG_Cross;$/;"	m	class:GetConfig	file:	access:private
+TAG_Fullmarks	parser.cpp	/^   XMLCh* TAG_Fullmarks;$/;"	m	class:GetConfig	file:	access:private
+TAG_Fullmarks	parser1.cpp	/^   XMLCh* TAG_Fullmarks;$/;"	m	class:GetConfig	file:	access:private
+TAG_Hightext	parser.cpp	/^   XMLCh* TAG_Hightext;$/;"	m	class:GetConfig	file:	access:private
+TAG_Hightext	parser1.cpp	/^   XMLCh* TAG_Hightext;$/;"	m	class:GetConfig	file:	access:private
+TAG_Marks	parser.cpp	/^   XMLCh* TAG_Marks;$/;"	m	class:GetConfig	file:	access:private
+TAG_Marks	parser1.cpp	/^   XMLCh* TAG_Marks;$/;"	m	class:GetConfig	file:	access:private
+TAG_Quesmark	parser.cpp	/^   XMLCh* TAG_Quesmark;$/;"	m	class:GetConfig	file:	access:private
+TAG_Quesmark	parser1.cpp	/^   XMLCh* TAG_Quesmark;$/;"	m	class:GetConfig	file:	access:private
+TAG_Question	parser.cpp	/^   XMLCh* TAG_Question;$/;"	m	class:GetConfig	file:	access:private
+TAG_Question	parser1.cpp	/^   XMLCh* TAG_Question;$/;"	m	class:GetConfig	file:	access:private
+TAG_Student	parser.cpp	/^   XMLCh* TAG_Student;$/;"	m	class:GetConfig	file:	access:private
+TAG_Student	parser1.cpp	/^   XMLCh* TAG_Student;$/;"	m	class:GetConfig	file:	access:private
+TAG_Subject	parser.cpp	/^   XMLCh* TAG_Subject;$/;"	m	class:GetConfig	file:	access:private
+TAG_Subject	parser1.cpp	/^   XMLCh* TAG_Subject;$/;"	m	class:GetConfig	file:	access:private
+TAG_Tick	parser.cpp	/^   XMLCh* TAG_Tick;$/;"	m	class:GetConfig	file:	access:private
+TAG_Tick	parser1.cpp	/^   XMLCh* TAG_Tick;$/;"	m	class:GetConfig	file:	access:private
+ThreadProc	singleServerMultipleClientSrc/server/myEvent.cpp	/^DWORD WINAPI myEvent::ThreadProc(LPVOID lpData)$/;"	f	class:myEvent	signature:(LPVOID lpData)
+ThreadProc	singleServerMultipleClientSrc/server/myEvent.h	/^    static DWORD WINAPI ThreadProc(LPVOID lpData);$/;"	p	class:myEvent	access:private	signature:(LPVOID lpData)
+WINDOWS_XP	singleServerMultipleClientSrc/client/myHostInfo.h	33;"	d
+WINDOWS_XP	singleServerMultipleClientSrc/server/myHostInfo.h	33;"	d
+XPrecieveMessage	singleServerMultipleClientSrc/client/mySocket.cpp	/^int myTcpSocket::XPrecieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+XPrecieveMessage	singleServerMultipleClientSrc/client/mySocket.h	/^		int XPrecieveMessage(string&);$/;"	p	class:myTcpSocket	access:private	signature:(string&)
+XPrecieveMessage	singleServerMultipleClientSrc/server/mySocket.cpp	/^int myTcpSocket::XPrecieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+XPrecieveMessage	singleServerMultipleClientSrc/server/mySocket.h	/^		int XPrecieveMessage(string&);$/;"	p	class:myTcpSocket	access:private	signature:(string&)
+_WIN32_WINNT	singleServerMultipleClientSrc/server/myEvent.h	4;"	d
+_WIN32_WINNT	singleServerMultipleClientSrc/server/mySemaphore.h	7;"	d
+_WIN32_WINNT	singleServerMultipleClientSrc/server/myThread.h	4;"	d
+a	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+a	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+acceptClient	singleServerMultipleClientSrc/client/mySocket.cpp	/^myTcpSocket* myTcpSocket::acceptClient(string& clientHost)$/;"	f	class:myTcpSocket	signature:(string& clientHost)
+acceptClient	singleServerMultipleClientSrc/client/mySocket.h	/^	myTcpSocket* acceptClient(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+acceptClient	singleServerMultipleClientSrc/server/mySocket.cpp	/^myTcpSocket* myTcpSocket::acceptClient(string& clientHost)$/;"	f	class:myTcpSocket	signature:(string& clientHost)
+acceptClient	singleServerMultipleClientSrc/server/mySocket.h	/^	myTcpSocket* acceptClient(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+addClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^void myThreadArgument::addClientArgument(myThreadArgument* argument)$/;"	f	class:myThreadArgument	signature:(myThreadArgument* argument)
+addClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	void addClientArgument(myThreadArgument*);$/;"	p	class:myThreadArgument	access:public	signature:(myThreadArgument*)
+ady	anat.cpp	/^int ady[8][8] = \\$/;"	v
+b	PA06ANT.cpp	/^bool b=true;$/;"	v
+base	anat.cpp	/^vector<vector<ll> > base;$/;"	v
+bindFlag	singleServerMultipleClientSrc/client/mySocket.h	/^    int bindFlag;          \/\/ Binding flag$/;"	m	class:mySocket	access:protected
+bindFlag	singleServerMultipleClientSrc/server/mySocket.h	/^    int bindFlag;          \/\/ Binding flag$/;"	m	class:mySocket	access:protected
+bindSocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::bindSocket()$/;"	f	class:myTcpSocket	signature:()
+bindSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	void bindSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+bindSocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::bindSocket()$/;"	f	class:myTcpSocket	signature:()
+bindSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	void bindSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+blocking	singleServerMultipleClientSrc/client/mySocket.h	/^    int blocking;          \/\/ Blocking flag$/;"	m	class:mySocket	access:protected
+blocking	singleServerMultipleClientSrc/server/mySocket.h	/^    int blocking;          \/\/ Blocking flag$/;"	m	class:mySocket	access:protected
+checkFileExistence	singleServerMultipleClientSrc/client/myClient.cpp	/^void checkFileExistence(const string& fileName)$/;"	f	signature:(const string& fileName)
+checkFileExistence	singleServerMultipleClientSrc/client/myClient.cpp	/^void checkFileExistence(const string&);$/;"	p	file:	signature:(const string&)
+clientAddr	singleServerMultipleClientSrc/client/mySocket.h	/^    struct sockaddr_in clientAddr;    \/\/ Address of the client that sent data$/;"	m	class:mySocket	typeref:struct:mySocket::sockaddr_in	access:protected
+clientAddr	singleServerMultipleClientSrc/server/mySocket.h	/^    struct sockaddr_in clientAddr;    \/\/ Address of the client that sent data$/;"	m	class:mySocket	typeref:struct:mySocket::sockaddr_in	access:protected
+clientArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myThreadArgument* clientArgument[MAX_NUM_CLIENTS];$/;"	m	class:myThreadArgument	access:private
+clientConnection	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myTcpSocket* clientConnection;    \/\/ the connecting socket to the client$/;"	m	class:myThreadArgument	access:private
+clientHandleThread	singleServerMultipleClientSrc/server/winSeverForMultipleClient.cpp	/^DWORD WINAPI clientHandleThread(LPVOID threadInfo)$/;"	f	signature:(LPVOID threadInfo)
+closeSemaphore	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^void mySemaphore::closeSemaphore()$/;"	f	class:mySemaphore	signature:()
+closeSemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    void closeSemaphore();    $/;"	p	class:mySemaphore	access:public	signature:()
+connectToServer	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::connectToServer(string& serverNameOrAddr,hostType hType)$/;"	f	class:myTcpSocket	signature:(string& serverNameOrAddr,hostType hType)
+connectToServer	singleServerMultipleClientSrc/client/mySocket.h	/^	virtual void connectToServer(string&,hostType);$/;"	p	class:myTcpSocket	access:public	signature:(string&,hostType)
+connectToServer	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::connectToServer(string& serverNameOrAddr,hostType hType)$/;"	f	class:myTcpSocket	signature:(string& serverNameOrAddr,hostType hType)
+connectToServer	singleServerMultipleClientSrc/server/mySocket.h	/^	virtual void connectToServer(string&,hostType);$/;"	p	class:myTcpSocket	access:public	signature:(string&,hostType)
+count	pa0.cpp	/^unsigned long int res=0,count=0,one=1;$/;"	v
+count	tree.cpp	/^int count=0;$/;"	v
+coutSemaphore	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	mySemaphore* coutSemaphore;       \/\/ semaphore for accessing the log file$/;"	m	class:myThreadArgument	access:private
+data	tree.cpp	/^	int data;$/;"	m	struct:node	file:	access:public
+delete_nodes	main.cpp	/^  void delete_nodes (void) {$/;"	f	class:LinkedList	file:	access:private	signature:(void)
+dest	PA06ANT.cpp	/^char start,dest;$/;"	v
+dest	pa0.cpp	/^char start,dest;$/;"	v
+detectErrorAccept	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorAccept(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorAccept	singleServerMultipleClientSrc/client/mySocket.h	/^    void detectErrorAccept(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorAccept	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorAccept(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorAccept	singleServerMultipleClientSrc/server/mySocket.h	/^    void detectErrorAccept(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorBind	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorBind(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorBind	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorBind(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorBind	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorBind(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorBind	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorBind(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorConnect	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorConnect(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorConnect	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorConnect(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorConnect	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorConnect(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorConnect	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorConnect(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorGetSocketOption	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::detectErrorGetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+detectErrorGetSocketOption	singleServerMultipleClientSrc/client/mySocket.h	/^		void detectErrorGetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+detectErrorGetSocketOption	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::detectErrorGetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+detectErrorGetSocketOption	singleServerMultipleClientSrc/server/mySocket.h	/^		void detectErrorGetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+detectErrorGethostbyaddr	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyaddr(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+detectErrorGethostbyaddr	singleServerMultipleClientSrc/client/myHostInfo.h	/^		void detectErrorGethostbyaddr(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+detectErrorGethostbyaddr	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyaddr(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+detectErrorGethostbyaddr	singleServerMultipleClientSrc/server/myHostInfo.h	/^		void detectErrorGethostbyaddr(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+detectErrorGethostbyname	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyname(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+detectErrorGethostbyname	singleServerMultipleClientSrc/client/myHostInfo.h	/^		void detectErrorGethostbyname(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+detectErrorGethostbyname	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyname(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+detectErrorGethostbyname	singleServerMultipleClientSrc/server/myHostInfo.h	/^		void detectErrorGethostbyname(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+detectErrorListen	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorListen(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorListen	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorListen(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorListen	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorListen(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorListen	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorListen(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorOpenWinSocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::detectErrorOpenWinSocket(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+detectErrorOpenWinSocket	singleServerMultipleClientSrc/client/mySocket.h	/^		void detectErrorOpenWinSocket(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+detectErrorOpenWinSocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::detectErrorOpenWinSocket(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+detectErrorOpenWinSocket	singleServerMultipleClientSrc/server/mySocket.h	/^		void detectErrorOpenWinSocket(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+detectErrorRecv	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorRecv(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorRecv	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorRecv(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorRecv	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorRecv(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorRecv	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorRecv(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorSend	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorSend(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorSend	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorSend(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorSend	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorSend(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+detectErrorSend	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorSend(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+detectErrorSetSocketOption	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::detectErrorSetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+detectErrorSetSocketOption	singleServerMultipleClientSrc/client/mySocket.h	/^		void detectErrorSetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+detectErrorSetSocketOption	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::detectErrorSetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+detectErrorSetSocketOption	singleServerMultipleClientSrc/server/mySocket.h	/^		void detectErrorSetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+disablePriorityBoost	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::disablePriorityBoost(BOOL disable)$/;"	f	class:myThread	signature:(BOOL disable)
+disablePriorityBoost	singleServerMultipleClientSrc/server/myThread.h	/^    void disablePriorityBoost(BOOL);$/;"	p	class:myThread	access:public	signature:(BOOL)
+else	temp1.c	3;"	d	file:
+errorCode	singleServerMultipleClientSrc/client/myException.h	/^	int   errorCode;$/;"	m	class:myException	access:private
+errorCode	singleServerMultipleClientSrc/server/myException.h	/^	int   errorCode;$/;"	m	class:myException	access:private
+errorMsg	singleServerMultipleClientSrc/client/myException.h	/^	string errorMsg;$/;"	m	class:myException	access:private
+errorMsg	singleServerMultipleClientSrc/server/myException.h	/^	string errorMsg;$/;"	m	class:myException	access:private
+event	singleServerMultipleClientSrc/server/myEvent.h	/^    HANDLE event;                  \/\/ event handle$/;"	m	class:myEvent	access:private
+execute	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::execute()$/;"	f	class:myThread	signature:()
+execute	singleServerMultipleClientSrc/server/myThread.h	/^	void execute();$/;"	p	class:myThread	access:public	signature:()
+executeFlag	singleServerMultipleClientSrc/server/myThread.h	/^	DWORD  executeFlag;$/;"	m	class:myThread	access:private
+exitCode	singleServerMultipleClientSrc/server/myThread.h	/^    DWORD exitCode;$/;"	m	class:myThread	access:private
+exitEvent	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myEvent* exitEvent;$/;"	m	class:myThreadArgument	access:private
+find	ANARC05B.cpp	/^bool find(int n,int *b,int l,int r){$/;"	f	signature:(int n,int *b,int l,int r)
+get	myclass.cpp	/^		int get(){$/;"	f	class:myclass	access:public	signature:()
+getAPCFunc	singleServerMultipleClientSrc/server/myEvent.h	/^    PAPCFUNC getAPCFunc() { return pfnAPC; }$/;"	f	class:myEvent	access:public	signature:()
+getClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^myThreadArgument* myThreadArgument::getClientArgument(int index)$/;"	f	class:myThreadArgument	signature:(int index)
+getClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myThreadArgument* getClientArgument(int);$/;"	p	class:myThreadArgument	access:public	signature:(int)
+getClientConnect	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myTcpSocket* getClientConnect()     { return clientConnection; }$/;"	f	class:myThreadArgument	access:public	signature:()
+getCoutSemaphore	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	mySemaphore* getCoutSemaphore()     { return coutSemaphore; }$/;"	f	class:myThreadArgument	access:public	signature:()
+getDebug	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getDebug()$/;"	f	class:mySocket	signature:()
+getDebug	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getDebug();$/;"	p	class:mySocket	access:public	signature:()
+getDebug	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getDebug()$/;"	f	class:mySocket	signature:()
+getDebug	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getDebug();$/;"	p	class:mySocket	access:public	signature:()
+getErrCode	singleServerMultipleClientSrc/client/myException.h	/^	int getErrCode()    { return errorCode; }$/;"	f	class:myException	access:public	signature:()
+getErrCode	singleServerMultipleClientSrc/server/myException.h	/^	int getErrCode()    { return errorCode; }$/;"	f	class:myException	access:public	signature:()
+getErrMsg	singleServerMultipleClientSrc/client/myException.h	/^	string& getErrMsg() { return errorMsg; }$/;"	f	class:myException	access:public	signature:()
+getErrMsg	singleServerMultipleClientSrc/server/myException.h	/^	string& getErrMsg() { return errorMsg; }$/;"	f	class:myException	access:public	signature:()
+getErrorDetail	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::getErrorDetail(int& errCode,string& header)$/;"	f	class:myEvent	signature:(int& errCode,string& header)
+getErrorDetail	singleServerMultipleClientSrc/server/myEvent.h	/^	static void getErrorDetail(int&,string&);$/;"	p	class:myEvent	access:private	signature:(int&,string&)
+getErrorDetail	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^void mySemaphore::getErrorDetail(int& errCode,string& header)$/;"	f	class:mySemaphore	signature:(int& errCode,string& header)
+getErrorDetail	singleServerMultipleClientSrc/server/mySemaphore.h	/^	void getErrorDetail(int&,string&);$/;"	p	class:mySemaphore	access:private	signature:(int&,string&)
+getErrorDetail	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::getErrorDetail(int& errCode,string& header)$/;"	f	class:myThread	signature:(int& errCode,string& header)
+getErrorDetail	singleServerMultipleClientSrc/server/myThread.h	/^    static void getErrorDetail(int&,string&);$/;"	p	class:myThread	access:private	signature:(int&,string&)
+getEventHandle	singleServerMultipleClientSrc/server/myEvent.h	/^    HANDLE getEventHandle() { return event; }$/;"	f	class:myEvent	access:public	signature:()
+getExecTime	singleServerMultipleClientSrc/client/myLog.cpp	/^char* myLog::getExecTime()$/;"	f	class:myLog	signature:()
+getExecTime	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::getExecTime(int* min, int* sec)$/;"	f	class:myLog	signature:(int* min, int* sec)
+getExecTime	singleServerMultipleClientSrc/client/myLog.h	/^   char* getExecTime();$/;"	p	class:myLog	access:private	signature:()
+getExecTime	singleServerMultipleClientSrc/client/myLog.h	/^   void  getExecTime(int*,int*);$/;"	p	class:myLog	access:private	signature:(int*,int*)
+getExitCode	singleServerMultipleClientSrc/server/myThread.cpp	/^DWORD myThread::getExitCode()$/;"	f	class:myThread	signature:()
+getExitCode	singleServerMultipleClientSrc/server/myThread.h	/^    DWORD getExitCode();    $/;"	p	class:myThread	access:public	signature:()
+getExitEvent	singleServerMultipleClientSrc/server/myThreadArgument.h	/^    myEvent* getExitEvent() { return exitEvent;}$/;"	f	class:myThreadArgument	access:public	signature:()
+getHostIPAddress	singleServerMultipleClientSrc/client/myHostInfo.h	/^    char* getHostIPAddress() $/;"	f	class:myHostInfo	access:public	signature:()
+getHostIPAddress	singleServerMultipleClientSrc/server/myHostInfo.h	/^    char* getHostIPAddress() $/;"	f	class:myHostInfo	access:public	signature:()
+getHostName	singleServerMultipleClientSrc/client/myHostInfo.h	/^    char* getHostName()$/;"	f	class:myHostInfo	access:public	signature:()
+getHostName	singleServerMultipleClientSrc/server/myHostInfo.h	/^    char* getHostName()$/;"	f	class:myHostInfo	access:public	signature:()
+getHostName	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	string&      getHostName()          { return hostName; }$/;"	f	class:myThreadArgument	access:public	signature:()
+getInerit	singleServerMultipleClientSrc/server/mySemaphore.h	/^	BOOL    getInerit()        { return inherit; }$/;"	f	class:mySemaphore	access:public	signature:()
+getInitialCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^	long    getInitialCount()  { return initCount; }$/;"	f	class:mySemaphore	access:public	signature:()
+getKeepAlive	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getKeepAlive()$/;"	f	class:mySocket	signature:()
+getKeepAlive	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getKeepAlive();$/;"	p	class:mySocket	access:public	signature:()
+getKeepAlive	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getKeepAlive()$/;"	f	class:mySocket	signature:()
+getKeepAlive	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getKeepAlive();$/;"	p	class:mySocket	access:public	signature:()
+getLingerOnOff	singleServerMultipleClientSrc/client/mySocket.cpp	/^bool mySocket::getLingerOnOff()$/;"	f	class:mySocket	signature:()
+getLingerOnOff	singleServerMultipleClientSrc/client/mySocket.h	/^    bool getLingerOnOff();$/;"	p	class:mySocket	access:public	signature:()
+getLingerOnOff	singleServerMultipleClientSrc/server/mySocket.cpp	/^bool mySocket::getLingerOnOff()$/;"	f	class:mySocket	signature:()
+getLingerOnOff	singleServerMultipleClientSrc/server/mySocket.h	/^    bool getLingerOnOff();$/;"	p	class:mySocket	access:public	signature:()
+getLingerSeconds	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getLingerSeconds()$/;"	f	class:mySocket	signature:()
+getLingerSeconds	singleServerMultipleClientSrc/client/mySocket.h	/^	int  getLingerSeconds();$/;"	p	class:mySocket	access:public	signature:()
+getLingerSeconds	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getLingerSeconds()$/;"	f	class:mySocket	signature:()
+getLingerSeconds	singleServerMultipleClientSrc/server/mySocket.h	/^	int  getLingerSeconds();$/;"	p	class:mySocket	access:public	signature:()
+getMaxCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^    long    getMaxCount()      { return maxCount; }$/;"	f	class:mySemaphore	access:public	signature:()
+getNextHost	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^char myHostInfo::getNextHost()$/;"	f	class:myHostInfo	signature:()
+getNextHost	singleServerMultipleClientSrc/client/myHostInfo.h	/^		char getNextHost();$/;"	p	class:myHostInfo	access:public	signature:()
+getNextHost	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^char myHostInfo::getNextHost()$/;"	f	class:myHostInfo	signature:()
+getNextHost	singleServerMultipleClientSrc/server/myHostInfo.h	/^		char getNextHost();$/;"	p	class:myHostInfo	access:public	signature:()
+getPortNumber	singleServerMultipleClientSrc/client/mySocket.h	/^	int getPortNumber() { return portNumber; }$/;"	f	class:mySocket	access:public	signature:()
+getPortNumber	singleServerMultipleClientSrc/server/mySocket.h	/^	int getPortNumber() { return portNumber; }$/;"	f	class:mySocket	access:public	signature:()
+getQueueUserAPC	singleServerMultipleClientSrc/server/myEvent.h	/^	BOOL getQueueUserAPC() { return queueUserAPC; }$/;"	f	class:myEvent	access:public	signature:()
+getReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getReceiveBufSize()$/;"	f	class:mySocket	signature:()
+getReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getReceiveBufSize();$/;"	p	class:mySocket	access:public	signature:()
+getReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getReceiveBufSize()$/;"	f	class:mySocket	signature:()
+getReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getReceiveBufSize();$/;"	p	class:mySocket	access:public	signature:()
+getReuseAddr	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getReuseAddr()$/;"	f	class:mySocket	signature:()
+getReuseAddr	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getReuseAddr();$/;"	p	class:mySocket	access:public	signature:()
+getReuseAddr	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getReuseAddr()$/;"	f	class:mySocket	signature:()
+getReuseAddr	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getReuseAddr();$/;"	p	class:mySocket	access:public	signature:()
+getSemaphoreName	singleServerMultipleClientSrc/server/mySemaphore.h	/^	string& getSemaphoreName() { return semaphoreName; }$/;"	f	class:mySemaphore	access:public	signature:()
+getSendBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getSendBufSize()$/;"	f	class:mySocket	signature:()
+getSendBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getSendBufSize();$/;"	p	class:mySocket	access:public	signature:()
+getSendBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getSendBufSize()$/;"	f	class:mySocket	signature:()
+getSendBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getSendBufSize();$/;"	p	class:mySocket	access:public	signature:()
+getSignalToEnd	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	bool getSignalToEnd()               { return signalToEnd; }$/;"	f	class:myThreadArgument	access:public	signature:()
+getSocketBlocking	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getSocketBlocking() { return blocking; }$/;"	f	class:mySocket	access:public	signature:()
+getSocketBlocking	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getSocketBlocking() { return blocking; }$/;"	f	class:mySocket	access:public	signature:()
+getSocketId	singleServerMultipleClientSrc/client/mySocket.h	/^    int getSocketId() { return socketId; }$/;"	f	class:mySocket	access:public	signature:()
+getSocketId	singleServerMultipleClientSrc/server/mySocket.h	/^    int getSocketId() { return socketId; }$/;"	f	class:mySocket	access:public	signature:()
+getThread	singleServerMultipleClientSrc/server/myEvent.h	/^	HANDLE getThread() { return thread; }$/;"	f	class:myEvent	access:public	signature:()
+getThreadArgument	singleServerMultipleClientSrc/server/myThread.h	/^	LPVOID getThreadArgument() { return threadArgument; }$/;"	f	class:myThread	access:public	signature:()
+getThreadId	singleServerMultipleClientSrc/server/myThread.cpp	/^DWORD myThread::getThreadId()$/;"	f	class:myThread	signature:()
+getThreadId	singleServerMultipleClientSrc/server/myThread.h	/^	DWORD getThreadId();$/;"	p	class:myThread	access:public	signature:()
+getThreadPriority	singleServerMultipleClientSrc/server/myThread.cpp	/^int myThread::getThreadPriority()$/;"	f	class:myThread	signature:()
+getThreadPriority	singleServerMultipleClientSrc/server/myThread.h	/^    int  getThreadPriority();$/;"	p	class:myThread	access:public	signature:()
+getThreadStatistics	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::getThreadStatistics(LPFILETIME  creationTime,LPFILETIME exitTime,$/;"	f	class:myThread	signature:(LPFILETIME creationTime,LPFILETIME exitTime, LPFILETIME kernelTime,LPFILETIME userTime)
+getThreadStatistics	singleServerMultipleClientSrc/server/myThread.h	/^	void  getThreadStatistics(LPFILETIME,LPFILETIME,LPFILETIME,LPFILETIME);$/;"	p	class:myThread	access:public	signature:(LPFILETIME,LPFILETIME,LPFILETIME,LPFILETIME)
+gun	myclass.cpp	/^		int gun(){}$/;"	f	class:myclass	file:	access:private	signature:()
+head_	main.cpp	/^  Node<T> *head_;$/;"	m	class:LinkedList	file:	access:private
+hostName	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	string hostName;                \/\/ the name of the client$/;"	m	class:myThreadArgument	access:private
+hostPtr	singleServerMultipleClientSrc/client/myHostInfo.h	/^	struct hostent *hostPtr;    \/\/ Entry within the host address database$/;"	m	class:myHostInfo	typeref:struct:myHostInfo::hostent	access:private
+hostPtr	singleServerMultipleClientSrc/server/myHostInfo.h	/^	struct hostent *hostPtr;    \/\/ Entry within the host address database$/;"	m	class:myHostInfo	typeref:struct:myHostInfo::hostent	access:private
+hostType	singleServerMultipleClientSrc/client/myHostInfo.h	/^enum hostType {NAME, ADDRESS};$/;"	g
+hostType	singleServerMultipleClientSrc/server/myHostInfo.h	/^enum hostType {NAME, ADDRESS};$/;"	g
+i	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+i	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+i	myclass.cpp	/^		int i;$/;"	m	class:myclass	file:	access:public
+i	parser1.cc	/^Sqƒµ∑êyÍáaHßsø5ÂîyG4xIk∂Éi˛≥ﬂÁé’¶Û‡;ÿqXÙï\/Ëh¶ª„í|¨K„¿œ*ÆG†j	º¡".N√ÎÄÁBE’Ï¿{Ÿ·øq0Ò¢ë;)E’LÄì-≥Uœª[‡£Lßsàÿ'eπçÒä∑°∂ôô÷}G4≥‹3’/;"	v
+in	tree.cpp	/^void in(ndptr root)$/;"	f	signature:(ndptr root)
+inherit	singleServerMultipleClientSrc/server/mySemaphore.h	/^    BOOL inherit;     \/\/ can be inherited by child$/;"	m	class:mySemaphore	access:private
+init	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::init()$/;"	f	class:myLog	signature:()
+init	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::init(const string& fileName)$/;"	f	class:myLog	signature:(const string& fileName)
+init	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::init(const string& fileName, int mode)$/;"	f	class:myLog	signature:(const string& fileName, int mode)
+init	singleServerMultipleClientSrc/client/myLog.h	/^   void init();$/;"	p	class:myLog	access:private	signature:()
+init	singleServerMultipleClientSrc/client/myLog.h	/^   void init(const string&);$/;"	p	class:myLog	access:private	signature:(const string&)
+init	singleServerMultipleClientSrc/client/myLog.h	/^   void init(const string&,int);$/;"	p	class:myLog	access:private	signature:(const string&,int)
+initCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^	long initCount;   \/\/ initialCount $/;"	m	class:mySemaphore	access:private
+initVars	singleServerMultipleClientSrc/client/myException.cpp	/^void myException::initVars()$/;"	f	class:myException	signature:()
+initVars	singleServerMultipleClientSrc/client/myException.h	/^	void initVars();$/;"	p	class:myException	access:private	signature:()
+initVars	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::initVars()$/;"	f	class:myLog	signature:()
+initVars	singleServerMultipleClientSrc/client/myLog.h	/^   void initVars();$/;"	p	class:myLog	access:private	signature:()
+initVars	singleServerMultipleClientSrc/server/myException.cpp	/^void myException::initVars()$/;"	f	class:myException	signature:()
+initVars	singleServerMultipleClientSrc/server/myException.h	/^	void initVars();$/;"	p	class:myException	access:private	signature:()
+initialize	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::initialize()$/;"	f	class:myTcpSocket	signature:()
+initialize	singleServerMultipleClientSrc/client/mySocket.h	/^	static void initialize();$/;"	p	class:myTcpSocket	access:public	signature:()
+initialize	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::initialize()$/;"	f	class:myTcpSocket	signature:()
+initialize	singleServerMultipleClientSrc/server/mySocket.h	/^	static void initialize();$/;"	p	class:myTcpSocket	access:public	signature:()
+inorder	tree.cpp	/^void inorder(ndptr root)$/;"	f	signature:(ndptr root)
+insert	main.cpp	/^  int insert (const T &new_item) {$/;"	f	class:LinkedList	access:public	signature:(const T &new_item)
+insert	tree.cpp	/^ndptr insert(ndptr root,int data)$/;"	f	signature:(ndptr root,int data)
+isPriorityBoostDisabled	singleServerMultipleClientSrc/server/myThread.cpp	/^BOOL myThread::isPriorityBoostDisabled()$/;"	f	class:myThread	signature:()
+isPriorityBoostDisabled	singleServerMultipleClientSrc/server/myThread.h	/^	BOOL isPriorityBoostDisabled();$/;"	p	class:myThread	access:public	signature:()
+is_not_prime	1.cpp	/^int is_not_prime[1000000]={0};$/;"	v
+j	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+j	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+j	myclass.cpp	/^		int j;$/;"	m	class:myclass	file:	access:public
+k	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+k	anat.cpp	/^ll k,p;$/;"	v
+k	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+lcs	lcs.cpp	/^void lcs(char s[],char t[])$/;"	f	signature:(char s[],char t[])
+left	tree.cpp	/^	struct node *left;$/;"	m	struct:node	typeref:struct:node::node	file:	access:public
+listenToClient	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::listenToClient(int totalNumPorts)$/;"	f	class:myTcpSocket	signature:(int totalNumPorts)
+listenToClient	singleServerMultipleClientSrc/client/mySocket.h	/^	void listenToClient(int numPorts = 5);$/;"	p	class:myTcpSocket	access:public	signature:(int numPorts = 5)
+listenToClient	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::listenToClient(int totalNumPorts)$/;"	f	class:myTcpSocket	signature:(int totalNumPorts)
+listenToClient	singleServerMultipleClientSrc/server/mySocket.h	/^	void listenToClient(int numPorts = 5);$/;"	p	class:myTcpSocket	access:public	signature:(int numPorts = 5)
+ll	anat.cpp	/^typedef long long unsigned int ll;$/;"	t	file:
+lock	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^BOOL mySemaphore::lock(BOOL wait)$/;"	f	class:mySemaphore	signature:(BOOL wait)
+lock	singleServerMultipleClientSrc/server/mySemaphore.h	/^	BOOL lock(BOOL wait=TRUE);$/;"	p	class:mySemaphore	access:public	signature:(BOOL wait=TRUE)
+logLevel	singleServerMultipleClientSrc/client/myLog.h	/^   enum logLevels logLevel;$/;"	m	class:myLog	typeref:enum:myLog::logLevels	access:private
+logLevels	singleServerMultipleClientSrc/client/myLog.h	/^   enum logLevels $/;"	g	class:myLog	access:public
+logName	singleServerMultipleClientSrc/client/myLog.h	/^   string logName;$/;"	m	class:myLog	access:private
+m	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+m	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+m_ConfigFileParser	parser.cpp	/^   xercesc::XercesDOMParser *m_ConfigFileParser;$/;"	m	class:GetConfig	file:	access:private
+main	1.c	/^int main(){$/;"	f
+main	1.cpp	/^int main()$/;"	f	signature:()
+main	3.cpp	/^int main()$/;"	f	signature:()
+main	4.cpp	/^int main()$/;"	f	signature:()
+main	5.cpp	/^int main()$/;"	f	signature:()
+main	7.cpp	/^int main()$/;"	f	signature:()
+main	8.c	/^int main()$/;"	f
+main	ANARC05B.cpp	/^int main(){$/;"	f	signature:()
+main	BISHOPS.cpp	/^int main(){$/;"	f	signature:()
+main	FRQPRIME.c	/^int main(){$/;"	f
+main	FRQPRIME.cpp	/^int main(){$/;"	f	signature:()
+main	HANGOVER.cpp	/^int main()$/;"	f	signature:()
+main	LCS0.c	/^int main(){$/;"	f
+main	LCS01.c	/^int main(){$/;"	f
+main	LCS1.cpp	/^int main(){$/;"	f	signature:()
+main	NEG2.cpp	/^int main(){$/;"	f	signature:()
+main	PA06ANT.cpp	/^main()$/;"	f	signature:()
+main	Rectangles.cpp	/^int main(){$/;"	f	signature:()
+main	TOANDFRO.c	/^int main(){$/;"	f
+main	TOANDFRO.cpp	/^int main(){$/;"	f	signature:()
+main	UJ.c	/^int main(){$/;"	f
+main	UJ1.c	/^int main(){$/;"	f
+main	abcdef.cpp	/^int main()$/;"	f	signature:()
+main	addrev.cpp	/^int main()$/;"	f	signature:()
+main	anar.c	/^main()$/;"	f
+main	anarc.cpp	/^int main(){$/;"	f	signature:()
+main	anat.cpp	/^int main () {$/;"	f	signature:()
+main	ar1.cpp	/^int main()$/;"	f	signature:()
+main	arith.c	/^int main()$/;"	f
+main	binstirl.cpp	/^int main()$/;"	f	signature:()
+main	catm.c	/^int main()$/;"	f
+main	catm.cpp	/^main()$/;"	f	signature:()
+main	divsum.c	/^main()$/;"	f
+main	divsum1.c	/^int main()$/;"	f
+main	divsum2.c	/^int main()$/;"	f
+main	euler.cpp	/^int main(){$/;"	f	signature:()
+main	euler1.cpp	/^int main(){$/;"	f	signature:()
+main	ex.cpp	/^int main()$/;"	f	signature:()
+main	factsum.cpp	/^int main()$/;"	f	signature:()
+main	fctl.cpp	/^int main()$/;"	f	signature:()
+main	fctl2.c	/^main()$/;"	f
+main	fctl2.cpp	/^main()$/;"	f	signature:()
+main	fib.cpp	/^int main(){$/;"	f	signature:()
+main	julka.cpp	/^int main(){$/;"	f	signature:()
+main	lcs.cpp	/^int main()$/;"	f	signature:()
+main	lcs1.cpp	/^int main(){$/;"	f	signature:()
+main	main.cpp	/^int main () {$/;"	f	signature:()
+main	map.cpp	/^int main()$/;"	f	signature:()
+main	martian.c	/^int main(){$/;"	f
+main	maze.cpp	/^int main()$/;"	f	signature:()
+main	myclass.cpp	/^int main(){$/;"	f	signature:()
+main	pa0.cpp	/^int main()$/;"	f	signature:()
+main	parser.cpp	/^int main()$/;"	f	signature:()
+main	parser1.cpp	/^int main()$/;"	f	signature:()
+main	prim.cpp	/^int main()$/;"	f	signature:()
+main	prime.cpp	/^int main()$/;"	f	signature:()
+main	rec.cpp	/^int main() $/;"	f	signature:()
+main	rot.cpp	/^int main()$/;"	f	signature:()
+main	s.c	/^main()$/;"	f
+main	server.cpp	/^int main(){$/;"	f	signature:()
+main	singleServerMultipleClientSrc/client/myClient.cpp	/^int main()$/;"	f	signature:()
+main	singleServerMultipleClientSrc/server/winSeverForMultipleClient.cpp	/^int main()$/;"	f	signature:()
+main	temp.c	/^int main(){$/;"	f
+main	temp1.c	/^int main(){$/;"	f
+main	tree.cpp	/^int main()$/;"	f	signature:()
+main	vishal.c	/^main()$/;"	f
+max	ANARC05B.cpp	5;"	d	file:
+maxCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^	long maxCount;    \/\/ max count$/;"	m	class:mySemaphore	access:private
+maze	maze.cpp	/^bool maze(int st1,int st2,int end1,int end2)$/;"	f	signature:(int st1,int st2,int end1,int end2)
+mul	PA06ANT.cpp	/^void mul()$/;"	f	signature:()
+multiply	temp.c	/^char * multiply(char [],char[]);$/;"	p	file:	signature:(char [],char[])
+multiply	temp.c	/^char * multiply(char a[],char b[]){$/;"	f	signature:(char a[],char b[])
+myEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^myEvent::myEvent(string eventName,PAPCFUNC _pfnAPC,BOOL _queueUserAPC)$/;"	f	class:myEvent	signature:(string eventName,PAPCFUNC _pfnAPC,BOOL _queueUserAPC)
+myEvent	singleServerMultipleClientSrc/server/myEvent.h	/^	myEvent(string eventName="",PAPCFUNC _pfnAPC=NULL,BOOL queueUserAPC=FALSE);$/;"	p	class:myEvent	access:public	signature:(string eventName=”,PAPCFUNC _pfnAPC=NULL,BOOL queueUserAPC=FALSE)
+myEvent	singleServerMultipleClientSrc/server/myEvent.h	/^class myEvent  $/;"	c
+myEvent::ThreadProc	singleServerMultipleClientSrc/server/myEvent.cpp	/^DWORD WINAPI myEvent::ThreadProc(LPVOID lpData)$/;"	f	class:myEvent	signature:(LPVOID lpData)
+myEvent::ThreadProc	singleServerMultipleClientSrc/server/myEvent.h	/^    static DWORD WINAPI ThreadProc(LPVOID lpData);$/;"	p	class:myEvent	access:private	signature:(LPVOID lpData)
+myEvent::event	singleServerMultipleClientSrc/server/myEvent.h	/^    HANDLE event;                  \/\/ event handle$/;"	m	class:myEvent	access:private
+myEvent::getAPCFunc	singleServerMultipleClientSrc/server/myEvent.h	/^    PAPCFUNC getAPCFunc() { return pfnAPC; }$/;"	f	class:myEvent	access:public	signature:()
+myEvent::getErrorDetail	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::getErrorDetail(int& errCode,string& header)$/;"	f	class:myEvent	signature:(int& errCode,string& header)
+myEvent::getErrorDetail	singleServerMultipleClientSrc/server/myEvent.h	/^	static void getErrorDetail(int&,string&);$/;"	p	class:myEvent	access:private	signature:(int&,string&)
+myEvent::getEventHandle	singleServerMultipleClientSrc/server/myEvent.h	/^    HANDLE getEventHandle() { return event; }$/;"	f	class:myEvent	access:public	signature:()
+myEvent::getQueueUserAPC	singleServerMultipleClientSrc/server/myEvent.h	/^	BOOL getQueueUserAPC() { return queueUserAPC; }$/;"	f	class:myEvent	access:public	signature:()
+myEvent::getThread	singleServerMultipleClientSrc/server/myEvent.h	/^	HANDLE getThread() { return thread; }$/;"	f	class:myEvent	access:public	signature:()
+myEvent::myEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^myEvent::myEvent(string eventName,PAPCFUNC _pfnAPC,BOOL _queueUserAPC)$/;"	f	class:myEvent	signature:(string eventName,PAPCFUNC _pfnAPC,BOOL _queueUserAPC)
+myEvent::myEvent	singleServerMultipleClientSrc/server/myEvent.h	/^	myEvent(string eventName="",PAPCFUNC _pfnAPC=NULL,BOOL queueUserAPC=FALSE);$/;"	p	class:myEvent	access:public	signature:(string eventName=”,PAPCFUNC _pfnAPC=NULL,BOOL queueUserAPC=FALSE)
+myEvent::pfnAPC	singleServerMultipleClientSrc/server/myEvent.h	/^    PAPCFUNC pfnAPC;               \/\/ address of user-provided callback$/;"	m	class:myEvent	access:private
+myEvent::pulseEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::pulseEvent()$/;"	f	class:myEvent	signature:()
+myEvent::pulseEvent	singleServerMultipleClientSrc/server/myEvent.h	/^	void pulseEvent();    \/\/ wrapper to PulseEvent()$/;"	p	class:myEvent	access:public	signature:()
+myEvent::queueUserAPC	singleServerMultipleClientSrc/server/myEvent.h	/^	BOOL queueUserAPC;        $/;"	m	class:myEvent	access:private
+myEvent::resetEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::resetEvent()$/;"	f	class:myEvent	signature:()
+myEvent::resetEvent	singleServerMultipleClientSrc/server/myEvent.h	/^	void resetEvent();    \/\/ wrapper to ResetEvent()$/;"	p	class:myEvent	access:public	signature:()
+myEvent::sa	singleServerMultipleClientSrc/server/myEvent.h	/^	LPSECURITY_ATTRIBUTES sa;      \/\/ SECURITY_ATTRBUTES structure$/;"	m	class:myEvent	access:private
+myEvent::setEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::setEvent()$/;"	f	class:myEvent	signature:()
+myEvent::setEvent	singleServerMultipleClientSrc/server/myEvent.h	/^    void setEvent();      \/\/ wrapper to SetEvent()  $/;"	p	class:myEvent	access:public	signature:()
+myEvent::thread	singleServerMultipleClientSrc/server/myEvent.h	/^    HANDLE thread;                 \/\/ handle to thread$/;"	m	class:myEvent	access:private
+myEvent::threadID	singleServerMultipleClientSrc/server/myEvent.h	/^    DWORD  threadID;               \/\/ thread id$/;"	m	class:myEvent	access:private
+myEvent::waitForEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^BOOL myEvent::waitForEvent(DWORD waitTime)$/;"	f	class:myEvent	signature:(DWORD waitTime)
+myEvent::waitForEvent	singleServerMultipleClientSrc/server/myEvent.h	/^    BOOL waitForEvent(DWORD waitTime=INFINITE);$/;"	p	class:myEvent	access:public	signature:(DWORD waitTime=INFINITE)
+myEvent::~myEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^myEvent::~myEvent()$/;"	f	class:myEvent	signature:()
+myEvent::~myEvent	singleServerMultipleClientSrc/server/myEvent.h	/^    virtual ~myEvent();$/;"	p	class:myEvent	access:public	signature:()
+myEvent_H	singleServerMultipleClientSrc/server/myEvent.h	2;"	d
+myException	singleServerMultipleClientSrc/client/myException.cpp	/^myException::myException(int errCode,const string& errMsg)$/;"	f	class:myException	signature:(int errCode,const string& errMsg)
+myException	singleServerMultipleClientSrc/client/myException.h	/^	myException(int,const string&);   $/;"	p	class:myException	access:public	signature:(int,const string&)
+myException	singleServerMultipleClientSrc/client/myException.h	/^class myException$/;"	c
+myException	singleServerMultipleClientSrc/server/myException.cpp	/^myException::myException(int errCode,const string& errMsg)$/;"	f	class:myException	signature:(int errCode,const string& errMsg)
+myException	singleServerMultipleClientSrc/server/myException.h	/^	myException(int,const string&);   $/;"	p	class:myException	access:public	signature:(int,const string&)
+myException	singleServerMultipleClientSrc/server/myException.h	/^class myException$/;"	c
+myException::errorCode	singleServerMultipleClientSrc/client/myException.h	/^	int   errorCode;$/;"	m	class:myException	access:private
+myException::errorCode	singleServerMultipleClientSrc/server/myException.h	/^	int   errorCode;$/;"	m	class:myException	access:private
+myException::errorMsg	singleServerMultipleClientSrc/client/myException.h	/^	string errorMsg;$/;"	m	class:myException	access:private
+myException::errorMsg	singleServerMultipleClientSrc/server/myException.h	/^	string errorMsg;$/;"	m	class:myException	access:private
+myException::getErrCode	singleServerMultipleClientSrc/client/myException.h	/^	int getErrCode()    { return errorCode; }$/;"	f	class:myException	access:public	signature:()
+myException::getErrCode	singleServerMultipleClientSrc/server/myException.h	/^	int getErrCode()    { return errorCode; }$/;"	f	class:myException	access:public	signature:()
+myException::getErrMsg	singleServerMultipleClientSrc/client/myException.h	/^	string& getErrMsg() { return errorMsg; }$/;"	f	class:myException	access:public	signature:()
+myException::getErrMsg	singleServerMultipleClientSrc/server/myException.h	/^	string& getErrMsg() { return errorMsg; }$/;"	f	class:myException	access:public	signature:()
+myException::initVars	singleServerMultipleClientSrc/client/myException.cpp	/^void myException::initVars()$/;"	f	class:myException	signature:()
+myException::initVars	singleServerMultipleClientSrc/client/myException.h	/^	void initVars();$/;"	p	class:myException	access:private	signature:()
+myException::initVars	singleServerMultipleClientSrc/server/myException.cpp	/^void myException::initVars()$/;"	f	class:myException	signature:()
+myException::initVars	singleServerMultipleClientSrc/server/myException.h	/^	void initVars();$/;"	p	class:myException	access:private	signature:()
+myException::myException	singleServerMultipleClientSrc/client/myException.cpp	/^myException::myException(int errCode,const string& errMsg)$/;"	f	class:myException	signature:(int errCode,const string& errMsg)
+myException::myException	singleServerMultipleClientSrc/client/myException.h	/^	myException(int,const string&);   $/;"	p	class:myException	access:public	signature:(int,const string&)
+myException::myException	singleServerMultipleClientSrc/server/myException.cpp	/^myException::myException(int errCode,const string& errMsg)$/;"	f	class:myException	signature:(int errCode,const string& errMsg)
+myException::myException	singleServerMultipleClientSrc/server/myException.h	/^	myException(int,const string&);   $/;"	p	class:myException	access:public	signature:(int,const string&)
+myException::response	singleServerMultipleClientSrc/client/myException.cpp	/^void myException::response()$/;"	f	class:myException	signature:()
+myException::response	singleServerMultipleClientSrc/client/myException.h	/^	virtual void response();  $/;"	p	class:myException	access:public	signature:()
+myException::response	singleServerMultipleClientSrc/server/myException.cpp	/^void myException::response()$/;"	f	class:myException	signature:()
+myException::response	singleServerMultipleClientSrc/server/myException.h	/^	virtual void response();  $/;"	p	class:myException	access:public	signature:()
+myException::~myException	singleServerMultipleClientSrc/client/myException.h	/^	~myException() {};$/;"	f	class:myException	access:public	signature:()
+myException::~myException	singleServerMultipleClientSrc/server/myException.h	/^	~myException() {};$/;"	f	class:myException	access:public	signature:()
+myException_H	singleServerMultipleClientSrc/client/myException.h	2;"	d
+myException_H	singleServerMultipleClientSrc/server/myException.h	2;"	d
+myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^myHostInfo::myHostInfo()$/;"	f	class:myHostInfo	signature:()
+myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^myHostInfo::myHostInfo(string& hostName,hostType type)$/;"	f	class:myHostInfo	signature:(string& hostName,hostType type)
+myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^    myHostInfo();$/;"	p	class:myHostInfo	access:public	signature:()
+myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^    myHostInfo(string& hostName, hostType type);$/;"	p	class:myHostInfo	access:public	signature:(string& hostName, hostType type)
+myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^class myHostInfo$/;"	c
+myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^myHostInfo::myHostInfo()$/;"	f	class:myHostInfo	signature:()
+myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^myHostInfo::myHostInfo(string& hostName,hostType type)$/;"	f	class:myHostInfo	signature:(string& hostName,hostType type)
+myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^    myHostInfo();$/;"	p	class:myHostInfo	access:public	signature:()
+myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^    myHostInfo(string& hostName, hostType type);$/;"	p	class:myHostInfo	access:public	signature:(string& hostName, hostType type)
+myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^class myHostInfo$/;"	c
+myHostInfo::detectErrorGethostbyaddr	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyaddr(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+myHostInfo::detectErrorGethostbyaddr	singleServerMultipleClientSrc/client/myHostInfo.h	/^		void detectErrorGethostbyaddr(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+myHostInfo::detectErrorGethostbyaddr	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyaddr(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+myHostInfo::detectErrorGethostbyaddr	singleServerMultipleClientSrc/server/myHostInfo.h	/^		void detectErrorGethostbyaddr(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+myHostInfo::detectErrorGethostbyname	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyname(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+myHostInfo::detectErrorGethostbyname	singleServerMultipleClientSrc/client/myHostInfo.h	/^		void detectErrorGethostbyname(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+myHostInfo::detectErrorGethostbyname	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^void myHostInfo::detectErrorGethostbyname(int* errCode,string& errorMsg)$/;"	f	class:myHostInfo	signature:(int* errCode,string& errorMsg)
+myHostInfo::detectErrorGethostbyname	singleServerMultipleClientSrc/server/myHostInfo.h	/^		void detectErrorGethostbyname(int*,string&);$/;"	p	class:myHostInfo	access:private	signature:(int*,string&)
+myHostInfo::getHostIPAddress	singleServerMultipleClientSrc/client/myHostInfo.h	/^    char* getHostIPAddress() $/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::getHostIPAddress	singleServerMultipleClientSrc/server/myHostInfo.h	/^    char* getHostIPAddress() $/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::getHostName	singleServerMultipleClientSrc/client/myHostInfo.h	/^    char* getHostName()$/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::getHostName	singleServerMultipleClientSrc/server/myHostInfo.h	/^    char* getHostName()$/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::getNextHost	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^char myHostInfo::getNextHost()$/;"	f	class:myHostInfo	signature:()
+myHostInfo::getNextHost	singleServerMultipleClientSrc/client/myHostInfo.h	/^		char getNextHost();$/;"	p	class:myHostInfo	access:public	signature:()
+myHostInfo::getNextHost	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^char myHostInfo::getNextHost()$/;"	f	class:myHostInfo	signature:()
+myHostInfo::getNextHost	singleServerMultipleClientSrc/server/myHostInfo.h	/^		char getNextHost();$/;"	p	class:myHostInfo	access:public	signature:()
+myHostInfo::hostPtr	singleServerMultipleClientSrc/client/myHostInfo.h	/^	struct hostent *hostPtr;    \/\/ Entry within the host address database$/;"	m	class:myHostInfo	typeref:struct:myHostInfo::hostent	access:private
+myHostInfo::hostPtr	singleServerMultipleClientSrc/server/myHostInfo.h	/^	struct hostent *hostPtr;    \/\/ Entry within the host address database$/;"	m	class:myHostInfo	typeref:struct:myHostInfo::hostent	access:private
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^myHostInfo::myHostInfo()$/;"	f	class:myHostInfo	signature:()
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.cpp	/^myHostInfo::myHostInfo(string& hostName,hostType type)$/;"	f	class:myHostInfo	signature:(string& hostName,hostType type)
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^    myHostInfo();$/;"	p	class:myHostInfo	access:public	signature:()
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^    myHostInfo(string& hostName, hostType type);$/;"	p	class:myHostInfo	access:public	signature:(string& hostName, hostType type)
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^myHostInfo::myHostInfo()$/;"	f	class:myHostInfo	signature:()
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.cpp	/^myHostInfo::myHostInfo(string& hostName,hostType type)$/;"	f	class:myHostInfo	signature:(string& hostName,hostType type)
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^    myHostInfo();$/;"	p	class:myHostInfo	access:public	signature:()
+myHostInfo::myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^    myHostInfo(string& hostName, hostType type);$/;"	p	class:myHostInfo	access:public	signature:(string& hostName, hostType type)
+myHostInfo::openHostDb	singleServerMultipleClientSrc/client/myHostInfo.h	/^		void openHostDb()$/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::openHostDb	singleServerMultipleClientSrc/server/myHostInfo.h	/^		void openHostDb()$/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::searchHostDB	singleServerMultipleClientSrc/client/myHostInfo.h	/^		char searchHostDB;     \/\/ search the host database flag$/;"	m	class:myHostInfo	access:private
+myHostInfo::searchHostDB	singleServerMultipleClientSrc/server/myHostInfo.h	/^		char searchHostDB;     \/\/ search the host database flag$/;"	m	class:myHostInfo	access:private
+myHostInfo::~myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^    ~myHostInfo()$/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo::~myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^    ~myHostInfo()$/;"	f	class:myHostInfo	access:public	signature:()
+myHostInfo_H	singleServerMultipleClientSrc/client/myHostInfo.h	25;"	d
+myHostInfo_H	singleServerMultipleClientSrc/server/myHostInfo.h	25;"	d
+myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::myLog()$/;"	f	class:myLog	signature:()
+myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::myLog(const string& fileName)$/;"	f	class:myLog	signature:(const string& fileName)
+myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::myLog(const string& fileName,enum logLevels levelIn)$/;"	f	class:myLog	signature:(const string& fileName,enum logLevels levelIn)
+myLog	singleServerMultipleClientSrc/client/myLog.h	/^   myLog();$/;"	p	class:myLog	access:public	signature:()
+myLog	singleServerMultipleClientSrc/client/myLog.h	/^   myLog(const string&);$/;"	p	class:myLog	access:public	signature:(const string&)
+myLog	singleServerMultipleClientSrc/client/myLog.h	/^   myLog(const string&,enum logLevels);$/;"	p	class:myLog	access:public	signature:(const string&,enum logLevels)
+myLog	singleServerMultipleClientSrc/client/myLog.h	/^class myLog : public ofstream$/;"	c	inherits:ofstream
+myLog::LEVEL_0	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_0,       \/\/ buffer all log messages$/;"	e	enum:myLog::logLevels
+myLog::LEVEL_1	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_1,       \/\/ buffer Level one, two and three log messages$/;"	e	enum:myLog::logLevels
+myLog::LEVEL_2	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_2,       \/\/ buffer Level two and three log messages$/;"	e	enum:myLog::logLevels
+myLog::LEVEL_3	singleServerMultipleClientSrc/client/myLog.h	/^      LEVEL_3,       \/\/ buffer Level three log messages$/;"	e	enum:myLog::logLevels
+myLog::QUIET_MODE	singleServerMultipleClientSrc/client/myLog.h	/^      QUIET_MODE     \/\/ do not print out any messages$/;"	e	enum:myLog::logLevels
+myLog::getExecTime	singleServerMultipleClientSrc/client/myLog.cpp	/^char* myLog::getExecTime()$/;"	f	class:myLog	signature:()
+myLog::getExecTime	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::getExecTime(int* min, int* sec)$/;"	f	class:myLog	signature:(int* min, int* sec)
+myLog::getExecTime	singleServerMultipleClientSrc/client/myLog.h	/^   char* getExecTime();$/;"	p	class:myLog	access:private	signature:()
+myLog::getExecTime	singleServerMultipleClientSrc/client/myLog.h	/^   void  getExecTime(int*,int*);$/;"	p	class:myLog	access:private	signature:(int*,int*)
+myLog::init	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::init()$/;"	f	class:myLog	signature:()
+myLog::init	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::init(const string& fileName)$/;"	f	class:myLog	signature:(const string& fileName)
+myLog::init	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::init(const string& fileName, int mode)$/;"	f	class:myLog	signature:(const string& fileName, int mode)
+myLog::init	singleServerMultipleClientSrc/client/myLog.h	/^   void init();$/;"	p	class:myLog	access:private	signature:()
+myLog::init	singleServerMultipleClientSrc/client/myLog.h	/^   void init(const string&);$/;"	p	class:myLog	access:private	signature:(const string&)
+myLog::init	singleServerMultipleClientSrc/client/myLog.h	/^   void init(const string&,int);$/;"	p	class:myLog	access:private	signature:(const string&,int)
+myLog::initVars	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::initVars()$/;"	f	class:myLog	signature:()
+myLog::initVars	singleServerMultipleClientSrc/client/myLog.h	/^   void initVars();$/;"	p	class:myLog	access:private	signature:()
+myLog::logLevel	singleServerMultipleClientSrc/client/myLog.h	/^   enum logLevels logLevel;$/;"	m	class:myLog	typeref:enum:myLog::logLevels	access:private
+myLog::logLevels	singleServerMultipleClientSrc/client/myLog.h	/^   enum logLevels $/;"	g	class:myLog	access:public
+myLog::logName	singleServerMultipleClientSrc/client/myLog.h	/^   string logName;$/;"	m	class:myLog	access:private
+myLog::myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::myLog()$/;"	f	class:myLog	signature:()
+myLog::myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::myLog(const string& fileName)$/;"	f	class:myLog	signature:(const string& fileName)
+myLog::myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::myLog(const string& fileName,enum logLevels levelIn)$/;"	f	class:myLog	signature:(const string& fileName,enum logLevels levelIn)
+myLog::myLog	singleServerMultipleClientSrc/client/myLog.h	/^   myLog();$/;"	p	class:myLog	access:public	signature:()
+myLog::myLog	singleServerMultipleClientSrc/client/myLog.h	/^   myLog(const string&);$/;"	p	class:myLog	access:public	signature:(const string&)
+myLog::myLog	singleServerMultipleClientSrc/client/myLog.h	/^   myLog(const string&,enum logLevels);$/;"	p	class:myLog	access:public	signature:(const string&,enum logLevels)
+myLog::openLog	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::openLog(const string& fileName, int mode)$/;"	f	class:myLog	signature:(const string& fileName, int mode)
+myLog::openLog	singleServerMultipleClientSrc/client/myLog.h	/^   void  openLog(const string&,int);$/;"	p	class:myLog	access:private	signature:(const string&,int)
+myLog::printHeader	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::printHeader(int theEnd)$/;"	f	class:myLog	signature:(int theEnd)
+myLog::printHeader	singleServerMultipleClientSrc/client/myLog.h	/^   void  printHeader(int);$/;"	p	class:myLog	access:private	signature:(int)
+myLog::startTime	singleServerMultipleClientSrc/client/myLog.h	/^   time_t startTime;$/;"	m	class:myLog	access:private
+myLog::~myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::~myLog()$/;"	f	class:myLog	signature:()
+myLog::~myLog	singleServerMultipleClientSrc/client/myLog.h	/^   virtual ~myLog();$/;"	p	class:myLog	access:public	signature:()
+myLog_H	singleServerMultipleClientSrc/client/myLog.h	14;"	d
+mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^mySemaphore::mySemaphore(string& sName,long initialCount,long maximumCount,int accessMode,BOOL canInherit)$/;"	f	class:mySemaphore	signature:(string& sName,long initialCount,long maximumCount,int accessMode,BOOL canInherit)
+mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    mySemaphore(string& sName=string(""),$/;"	p	class:mySemaphore	access:public	signature:(string& sName=string(”), long initialCount=0,long maxCount=1, int accessMode=CREATE,BOOL canInherit=TRUE)
+mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^class mySemaphore$/;"	c
+mySemaphore::closeSemaphore	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^void mySemaphore::closeSemaphore()$/;"	f	class:mySemaphore	signature:()
+mySemaphore::closeSemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    void closeSemaphore();    $/;"	p	class:mySemaphore	access:public	signature:()
+mySemaphore::getErrorDetail	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^void mySemaphore::getErrorDetail(int& errCode,string& header)$/;"	f	class:mySemaphore	signature:(int& errCode,string& header)
+mySemaphore::getErrorDetail	singleServerMultipleClientSrc/server/mySemaphore.h	/^	void getErrorDetail(int&,string&);$/;"	p	class:mySemaphore	access:private	signature:(int&,string&)
+mySemaphore::getInerit	singleServerMultipleClientSrc/server/mySemaphore.h	/^	BOOL    getInerit()        { return inherit; }$/;"	f	class:mySemaphore	access:public	signature:()
+mySemaphore::getInitialCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^	long    getInitialCount()  { return initCount; }$/;"	f	class:mySemaphore	access:public	signature:()
+mySemaphore::getMaxCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^    long    getMaxCount()      { return maxCount; }$/;"	f	class:mySemaphore	access:public	signature:()
+mySemaphore::getSemaphoreName	singleServerMultipleClientSrc/server/mySemaphore.h	/^	string& getSemaphoreName() { return semaphoreName; }$/;"	f	class:mySemaphore	access:public	signature:()
+mySemaphore::inherit	singleServerMultipleClientSrc/server/mySemaphore.h	/^    BOOL inherit;     \/\/ can be inherited by child$/;"	m	class:mySemaphore	access:private
+mySemaphore::initCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^	long initCount;   \/\/ initialCount $/;"	m	class:mySemaphore	access:private
+mySemaphore::lock	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^BOOL mySemaphore::lock(BOOL wait)$/;"	f	class:mySemaphore	signature:(BOOL wait)
+mySemaphore::lock	singleServerMultipleClientSrc/server/mySemaphore.h	/^	BOOL lock(BOOL wait=TRUE);$/;"	p	class:mySemaphore	access:public	signature:(BOOL wait=TRUE)
+mySemaphore::maxCount	singleServerMultipleClientSrc/server/mySemaphore.h	/^	long maxCount;    \/\/ max count$/;"	m	class:mySemaphore	access:private
+mySemaphore::mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^mySemaphore::mySemaphore(string& sName,long initialCount,long maximumCount,int accessMode,BOOL canInherit)$/;"	f	class:mySemaphore	signature:(string& sName,long initialCount,long maximumCount,int accessMode,BOOL canInherit)
+mySemaphore::mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    mySemaphore(string& sName=string(""),$/;"	p	class:mySemaphore	access:public	signature:(string& sName=string(”), long initialCount=0,long maxCount=1, int accessMode=CREATE,BOOL canInherit=TRUE)
+mySemaphore::sa	singleServerMultipleClientSrc/server/mySemaphore.h	/^    LPSECURITY_ATTRIBUTES sa;$/;"	m	class:mySemaphore	access:private
+mySemaphore::semaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    HANDLE semaphore;$/;"	m	class:mySemaphore	access:private
+mySemaphore::semaphoreName	singleServerMultipleClientSrc/server/mySemaphore.h	/^    string semaphoreName;$/;"	m	class:mySemaphore	access:private
+mySemaphore::unlock	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^void mySemaphore::unlock()$/;"	f	class:mySemaphore	signature:()
+mySemaphore::unlock	singleServerMultipleClientSrc/server/mySemaphore.h	/^    void unlock();$/;"	p	class:mySemaphore	access:public	signature:()
+mySemaphore::~mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^mySemaphore::~mySemaphore()$/;"	f	class:mySemaphore	signature:()
+mySemaphore::~mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    virtual ~mySemaphore();$/;"	p	class:mySemaphore	access:public	signature:()
+mySemaphore_H	singleServerMultipleClientSrc/server/mySemaphore.h	2;"	d
+mySocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^mySocket::mySocket(int pNumber)$/;"	f	class:mySocket	signature:(int pNumber)
+mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^	mySocket() {}$/;"	f	class:mySocket	access:protected	signature:()
+mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^    mySocket(int);                       \/\/ given a port number, create a socket$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^class mySocket$/;"	c
+mySocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^mySocket::mySocket(int pNumber)$/;"	f	class:mySocket	signature:(int pNumber)
+mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^	mySocket() {}$/;"	f	class:mySocket	access:protected	signature:()
+mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^    mySocket(int);                       \/\/ given a port number, create a socket$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^class mySocket$/;"	c
+mySocket::bindFlag	singleServerMultipleClientSrc/client/mySocket.h	/^    int bindFlag;          \/\/ Binding flag$/;"	m	class:mySocket	access:protected
+mySocket::bindFlag	singleServerMultipleClientSrc/server/mySocket.h	/^    int bindFlag;          \/\/ Binding flag$/;"	m	class:mySocket	access:protected
+mySocket::blocking	singleServerMultipleClientSrc/client/mySocket.h	/^    int blocking;          \/\/ Blocking flag$/;"	m	class:mySocket	access:protected
+mySocket::blocking	singleServerMultipleClientSrc/server/mySocket.h	/^    int blocking;          \/\/ Blocking flag$/;"	m	class:mySocket	access:protected
+mySocket::clientAddr	singleServerMultipleClientSrc/client/mySocket.h	/^    struct sockaddr_in clientAddr;    \/\/ Address of the client that sent data$/;"	m	class:mySocket	typeref:struct:mySocket::sockaddr_in	access:protected
+mySocket::clientAddr	singleServerMultipleClientSrc/server/mySocket.h	/^    struct sockaddr_in clientAddr;    \/\/ Address of the client that sent data$/;"	m	class:mySocket	typeref:struct:mySocket::sockaddr_in	access:protected
+mySocket::detectErrorGetSocketOption	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::detectErrorGetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+mySocket::detectErrorGetSocketOption	singleServerMultipleClientSrc/client/mySocket.h	/^		void detectErrorGetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+mySocket::detectErrorGetSocketOption	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::detectErrorGetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+mySocket::detectErrorGetSocketOption	singleServerMultipleClientSrc/server/mySocket.h	/^		void detectErrorGetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+mySocket::detectErrorOpenWinSocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::detectErrorOpenWinSocket(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+mySocket::detectErrorOpenWinSocket	singleServerMultipleClientSrc/client/mySocket.h	/^		void detectErrorOpenWinSocket(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+mySocket::detectErrorOpenWinSocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::detectErrorOpenWinSocket(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+mySocket::detectErrorOpenWinSocket	singleServerMultipleClientSrc/server/mySocket.h	/^		void detectErrorOpenWinSocket(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+mySocket::detectErrorSetSocketOption	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::detectErrorSetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+mySocket::detectErrorSetSocketOption	singleServerMultipleClientSrc/client/mySocket.h	/^		void detectErrorSetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+mySocket::detectErrorSetSocketOption	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::detectErrorSetSocketOption(int* errCode,string& errMsg)$/;"	f	class:mySocket	signature:(int* errCode,string& errMsg)
+mySocket::detectErrorSetSocketOption	singleServerMultipleClientSrc/server/mySocket.h	/^		void detectErrorSetSocketOption(int*,string&);$/;"	p	class:mySocket	access:private	signature:(int*,string&)
+mySocket::getDebug	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getDebug()$/;"	f	class:mySocket	signature:()
+mySocket::getDebug	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getDebug();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getDebug	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getDebug()$/;"	f	class:mySocket	signature:()
+mySocket::getDebug	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getDebug();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getKeepAlive	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getKeepAlive()$/;"	f	class:mySocket	signature:()
+mySocket::getKeepAlive	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getKeepAlive();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getKeepAlive	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getKeepAlive()$/;"	f	class:mySocket	signature:()
+mySocket::getKeepAlive	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getKeepAlive();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getLingerOnOff	singleServerMultipleClientSrc/client/mySocket.cpp	/^bool mySocket::getLingerOnOff()$/;"	f	class:mySocket	signature:()
+mySocket::getLingerOnOff	singleServerMultipleClientSrc/client/mySocket.h	/^    bool getLingerOnOff();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getLingerOnOff	singleServerMultipleClientSrc/server/mySocket.cpp	/^bool mySocket::getLingerOnOff()$/;"	f	class:mySocket	signature:()
+mySocket::getLingerOnOff	singleServerMultipleClientSrc/server/mySocket.h	/^    bool getLingerOnOff();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getLingerSeconds	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getLingerSeconds()$/;"	f	class:mySocket	signature:()
+mySocket::getLingerSeconds	singleServerMultipleClientSrc/client/mySocket.h	/^	int  getLingerSeconds();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getLingerSeconds	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getLingerSeconds()$/;"	f	class:mySocket	signature:()
+mySocket::getLingerSeconds	singleServerMultipleClientSrc/server/mySocket.h	/^	int  getLingerSeconds();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getPortNumber	singleServerMultipleClientSrc/client/mySocket.h	/^	int getPortNumber() { return portNumber; }$/;"	f	class:mySocket	access:public	signature:()
+mySocket::getPortNumber	singleServerMultipleClientSrc/server/mySocket.h	/^	int getPortNumber() { return portNumber; }$/;"	f	class:mySocket	access:public	signature:()
+mySocket::getReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getReceiveBufSize()$/;"	f	class:mySocket	signature:()
+mySocket::getReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getReceiveBufSize();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getReceiveBufSize()$/;"	f	class:mySocket	signature:()
+mySocket::getReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getReceiveBufSize();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getReuseAddr	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getReuseAddr()$/;"	f	class:mySocket	signature:()
+mySocket::getReuseAddr	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getReuseAddr();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getReuseAddr	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getReuseAddr()$/;"	f	class:mySocket	signature:()
+mySocket::getReuseAddr	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getReuseAddr();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getSendBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^int mySocket::getSendBufSize()$/;"	f	class:mySocket	signature:()
+mySocket::getSendBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getSendBufSize();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getSendBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^int mySocket::getSendBufSize()$/;"	f	class:mySocket	signature:()
+mySocket::getSendBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getSendBufSize();$/;"	p	class:mySocket	access:public	signature:()
+mySocket::getSocketBlocking	singleServerMultipleClientSrc/client/mySocket.h	/^    int  getSocketBlocking() { return blocking; }$/;"	f	class:mySocket	access:public	signature:()
+mySocket::getSocketBlocking	singleServerMultipleClientSrc/server/mySocket.h	/^    int  getSocketBlocking() { return blocking; }$/;"	f	class:mySocket	access:public	signature:()
+mySocket::getSocketId	singleServerMultipleClientSrc/client/mySocket.h	/^    int getSocketId() { return socketId; }$/;"	f	class:mySocket	access:public	signature:()
+mySocket::getSocketId	singleServerMultipleClientSrc/server/mySocket.h	/^    int getSocketId() { return socketId; }$/;"	f	class:mySocket	access:public	signature:()
+mySocket::mySocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^mySocket::mySocket(int pNumber)$/;"	f	class:mySocket	signature:(int pNumber)
+mySocket::mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^	mySocket() {}$/;"	f	class:mySocket	access:protected	signature:()
+mySocket::mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^    mySocket(int);                       \/\/ given a port number, create a socket$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::mySocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^mySocket::mySocket(int pNumber)$/;"	f	class:mySocket	signature:(int pNumber)
+mySocket::mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^	mySocket() {}$/;"	f	class:mySocket	access:protected	signature:()
+mySocket::mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^    mySocket(int);                       \/\/ given a port number, create a socket$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::operator <<	singleServerMultipleClientSrc/client/mySocket.h	/^	friend ostream& operator<<(ostream&,mySocket&);$/;"	p	class:mySocket	access:friend	signature:(ostream&,mySocket&)
+mySocket::operator <<	singleServerMultipleClientSrc/server/mySocket.h	/^	friend ostream& operator<<(ostream&,mySocket&);$/;"	p	class:mySocket	access:friend	signature:(ostream&,mySocket&)
+mySocket::portNumber	singleServerMultipleClientSrc/client/mySocket.h	/^    int portNumber;        \/\/ Socket port number    $/;"	m	class:mySocket	access:protected
+mySocket::portNumber	singleServerMultipleClientSrc/server/mySocket.h	/^    int portNumber;        \/\/ Socket port number    $/;"	m	class:mySocket	access:protected
+mySocket::sGetError	singleServerMultipleClientSrc/client/mySocket.h	/^		char *sGetError()$/;"	f	class:mySocket	access:private	signature:()
+mySocket::sGetError	singleServerMultipleClientSrc/server/mySocket.h	/^		char *sGetError()$/;"	f	class:mySocket	access:private	signature:()
+mySocket::setDebug	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setDebug(int debugToggle)$/;"	f	class:mySocket	signature:(int debugToggle)
+mySocket::setDebug	singleServerMultipleClientSrc/client/mySocket.h	/^    void setDebug(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setDebug	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setDebug(int debugToggle)$/;"	f	class:mySocket	signature:(int debugToggle)
+mySocket::setDebug	singleServerMultipleClientSrc/server/mySocket.h	/^    void setDebug(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setKeepAlive	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setKeepAlive(int aliveToggle)$/;"	f	class:mySocket	signature:(int aliveToggle)
+mySocket::setKeepAlive	singleServerMultipleClientSrc/client/mySocket.h	/^    void setKeepAlive(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setKeepAlive	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setKeepAlive(int aliveToggle)$/;"	f	class:mySocket	signature:(int aliveToggle)
+mySocket::setKeepAlive	singleServerMultipleClientSrc/server/mySocket.h	/^    void setKeepAlive(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setLingerOnOff	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setLingerOnOff(bool lingerOn)$/;"	f	class:mySocket	signature:(bool lingerOn)
+mySocket::setLingerOnOff	singleServerMultipleClientSrc/client/mySocket.h	/^    void setLingerOnOff(bool);$/;"	p	class:mySocket	access:public	signature:(bool)
+mySocket::setLingerOnOff	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setLingerOnOff(bool lingerOn)$/;"	f	class:mySocket	signature:(bool lingerOn)
+mySocket::setLingerOnOff	singleServerMultipleClientSrc/server/mySocket.h	/^    void setLingerOnOff(bool);$/;"	p	class:mySocket	access:public	signature:(bool)
+mySocket::setLingerSeconds	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setLingerSeconds(int seconds)$/;"	f	class:mySocket	signature:(int seconds)
+mySocket::setLingerSeconds	singleServerMultipleClientSrc/client/mySocket.h	/^	void setLingerSeconds(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setLingerSeconds	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setLingerSeconds(int seconds)$/;"	f	class:mySocket	signature:(int seconds)
+mySocket::setLingerSeconds	singleServerMultipleClientSrc/server/mySocket.h	/^	void setLingerSeconds(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setReceiveBufSize(int receiveBufSize)$/;"	f	class:mySocket	signature:(int receiveBufSize)
+mySocket::setReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    void setReceiveBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setReceiveBufSize(int receiveBufSize)$/;"	f	class:mySocket	signature:(int receiveBufSize)
+mySocket::setReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    void setReceiveBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setReuseAddr	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setReuseAddr(int reuseToggle)$/;"	f	class:mySocket	signature:(int reuseToggle)
+mySocket::setReuseAddr	singleServerMultipleClientSrc/client/mySocket.h	/^    void setReuseAddr(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setReuseAddr	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setReuseAddr(int reuseToggle)$/;"	f	class:mySocket	signature:(int reuseToggle)
+mySocket::setReuseAddr	singleServerMultipleClientSrc/server/mySocket.h	/^    void setReuseAddr(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setSendBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setSendBufSize(int sendBufSize)$/;"	f	class:mySocket	signature:(int sendBufSize)
+mySocket::setSendBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    void setSendBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setSendBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setSendBufSize(int sendBufSize)$/;"	f	class:mySocket	signature:(int sendBufSize)
+mySocket::setSendBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    void setSendBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setSocketBlocking	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setSocketBlocking(int blockingToggle)$/;"	f	class:mySocket	signature:(int blockingToggle)
+mySocket::setSocketBlocking	singleServerMultipleClientSrc/client/mySocket.h	/^    void setSocketBlocking(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setSocketBlocking	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setSocketBlocking(int blockingToggle)$/;"	f	class:mySocket	signature:(int blockingToggle)
+mySocket::setSocketBlocking	singleServerMultipleClientSrc/server/mySocket.h	/^    void setSocketBlocking(int);$/;"	p	class:mySocket	access:public	signature:(int)
+mySocket::setSocketId	singleServerMultipleClientSrc/client/mySocket.h	/^	void setSocketId(int socketFd) { socketId = socketFd; }$/;"	f	class:mySocket	access:protected	signature:(int socketFd)
+mySocket::setSocketId	singleServerMultipleClientSrc/server/mySocket.h	/^	void setSocketId(int socketFd) { socketId = socketFd; }$/;"	f	class:mySocket	access:protected	signature:(int socketFd)
+mySocket::socketId	singleServerMultipleClientSrc/client/mySocket.h	/^    int socketId;          \/\/ Socket file descriptor$/;"	m	class:mySocket	access:protected
+mySocket::socketId	singleServerMultipleClientSrc/server/mySocket.h	/^    int socketId;          \/\/ Socket file descriptor$/;"	m	class:mySocket	access:protected
+mySocket::~mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^    virtual ~mySocket()$/;"	f	class:mySocket	access:public	signature:()
+mySocket::~mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^    virtual ~mySocket()$/;"	f	class:mySocket	access:public	signature:()
+mySocket_H	singleServerMultipleClientSrc/client/mySocket.h	2;"	d
+mySocket_H	singleServerMultipleClientSrc/server/mySocket.h	2;"	d
+myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	myTcpSocket() {};$/;"	f	class:myTcpSocket	access:public	signature:()
+myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	myTcpSocket(int portId) : mySocket(portId) { };$/;"	f	class:myTcpSocket	access:public	signature:(int portId)
+myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^class myTcpSocket : public mySocket$/;"	c	inherits:mySocket
+myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	myTcpSocket() {};$/;"	f	class:myTcpSocket	access:public	signature:()
+myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	myTcpSocket(int portId) : mySocket(portId) { };$/;"	f	class:myTcpSocket	access:public	signature:(int portId)
+myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^class myTcpSocket : public mySocket$/;"	c	inherits:mySocket
+myTcpSocket::XPrecieveMessage	singleServerMultipleClientSrc/client/mySocket.cpp	/^int myTcpSocket::XPrecieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+myTcpSocket::XPrecieveMessage	singleServerMultipleClientSrc/client/mySocket.h	/^		int XPrecieveMessage(string&);$/;"	p	class:myTcpSocket	access:private	signature:(string&)
+myTcpSocket::XPrecieveMessage	singleServerMultipleClientSrc/server/mySocket.cpp	/^int myTcpSocket::XPrecieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+myTcpSocket::XPrecieveMessage	singleServerMultipleClientSrc/server/mySocket.h	/^		int XPrecieveMessage(string&);$/;"	p	class:myTcpSocket	access:private	signature:(string&)
+myTcpSocket::acceptClient	singleServerMultipleClientSrc/client/mySocket.cpp	/^myTcpSocket* myTcpSocket::acceptClient(string& clientHost)$/;"	f	class:myTcpSocket	signature:(string& clientHost)
+myTcpSocket::acceptClient	singleServerMultipleClientSrc/client/mySocket.h	/^	myTcpSocket* acceptClient(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+myTcpSocket::acceptClient	singleServerMultipleClientSrc/server/mySocket.cpp	/^myTcpSocket* myTcpSocket::acceptClient(string& clientHost)$/;"	f	class:myTcpSocket	signature:(string& clientHost)
+myTcpSocket::acceptClient	singleServerMultipleClientSrc/server/mySocket.h	/^	myTcpSocket* acceptClient(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+myTcpSocket::bindSocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::bindSocket()$/;"	f	class:myTcpSocket	signature:()
+myTcpSocket::bindSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	void bindSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+myTcpSocket::bindSocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::bindSocket()$/;"	f	class:myTcpSocket	signature:()
+myTcpSocket::bindSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	void bindSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+myTcpSocket::connectToServer	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::connectToServer(string& serverNameOrAddr,hostType hType)$/;"	f	class:myTcpSocket	signature:(string& serverNameOrAddr,hostType hType)
+myTcpSocket::connectToServer	singleServerMultipleClientSrc/client/mySocket.h	/^	virtual void connectToServer(string&,hostType);$/;"	p	class:myTcpSocket	access:public	signature:(string&,hostType)
+myTcpSocket::connectToServer	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::connectToServer(string& serverNameOrAddr,hostType hType)$/;"	f	class:myTcpSocket	signature:(string& serverNameOrAddr,hostType hType)
+myTcpSocket::connectToServer	singleServerMultipleClientSrc/server/mySocket.h	/^	virtual void connectToServer(string&,hostType);$/;"	p	class:myTcpSocket	access:public	signature:(string&,hostType)
+myTcpSocket::detectErrorAccept	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorAccept(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorAccept	singleServerMultipleClientSrc/client/mySocket.h	/^    void detectErrorAccept(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorAccept	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorAccept(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorAccept	singleServerMultipleClientSrc/server/mySocket.h	/^    void detectErrorAccept(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorBind	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorBind(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorBind	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorBind(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorBind	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorBind(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorBind	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorBind(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorConnect	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorConnect(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorConnect	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorConnect(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorConnect	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorConnect(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorConnect	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorConnect(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorListen	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorListen(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorListen	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorListen(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorListen	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorListen(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorListen	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorListen(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorRecv	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorRecv(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorRecv	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorRecv(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorRecv	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorRecv(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorRecv	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorRecv(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorSend	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::detectErrorSend(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorSend	singleServerMultipleClientSrc/client/mySocket.h	/^	void detectErrorSend(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::detectErrorSend	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::detectErrorSend(int* errCode,string& errMsg)$/;"	f	class:myTcpSocket	signature:(int* errCode,string& errMsg)
+myTcpSocket::detectErrorSend	singleServerMultipleClientSrc/server/mySocket.h	/^	void detectErrorSend(int*,string&);$/;"	p	class:myTcpSocket	access:private	signature:(int*,string&)
+myTcpSocket::initialize	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::initialize()$/;"	f	class:myTcpSocket	signature:()
+myTcpSocket::initialize	singleServerMultipleClientSrc/client/mySocket.h	/^	static void initialize();$/;"	p	class:myTcpSocket	access:public	signature:()
+myTcpSocket::initialize	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::initialize()$/;"	f	class:myTcpSocket	signature:()
+myTcpSocket::initialize	singleServerMultipleClientSrc/server/mySocket.h	/^	static void initialize();$/;"	p	class:myTcpSocket	access:public	signature:()
+myTcpSocket::listenToClient	singleServerMultipleClientSrc/client/mySocket.cpp	/^void myTcpSocket::listenToClient(int totalNumPorts)$/;"	f	class:myTcpSocket	signature:(int totalNumPorts)
+myTcpSocket::listenToClient	singleServerMultipleClientSrc/client/mySocket.h	/^	void listenToClient(int numPorts = 5);$/;"	p	class:myTcpSocket	access:public	signature:(int numPorts = 5)
+myTcpSocket::listenToClient	singleServerMultipleClientSrc/server/mySocket.cpp	/^void myTcpSocket::listenToClient(int totalNumPorts)$/;"	f	class:myTcpSocket	signature:(int totalNumPorts)
+myTcpSocket::listenToClient	singleServerMultipleClientSrc/server/mySocket.h	/^	void listenToClient(int numPorts = 5);$/;"	p	class:myTcpSocket	access:public	signature:(int numPorts = 5)
+myTcpSocket::myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	myTcpSocket() {};$/;"	f	class:myTcpSocket	access:public	signature:()
+myTcpSocket::myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	myTcpSocket(int portId) : mySocket(portId) { };$/;"	f	class:myTcpSocket	access:public	signature:(int portId)
+myTcpSocket::myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	myTcpSocket() {};$/;"	f	class:myTcpSocket	access:public	signature:()
+myTcpSocket::myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	myTcpSocket(int portId) : mySocket(portId) { };$/;"	f	class:myTcpSocket	access:public	signature:(int portId)
+myTcpSocket::recieveMessage	singleServerMultipleClientSrc/client/mySocket.cpp	/^int myTcpSocket::recieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+myTcpSocket::recieveMessage	singleServerMultipleClientSrc/client/mySocket.h	/^	int recieveMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+myTcpSocket::recieveMessage	singleServerMultipleClientSrc/server/mySocket.cpp	/^int myTcpSocket::recieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+myTcpSocket::recieveMessage	singleServerMultipleClientSrc/server/mySocket.h	/^	int recieveMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+myTcpSocket::sendMessage	singleServerMultipleClientSrc/client/mySocket.cpp	/^int myTcpSocket::sendMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+myTcpSocket::sendMessage	singleServerMultipleClientSrc/client/mySocket.h	/^	int sendMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+myTcpSocket::sendMessage	singleServerMultipleClientSrc/server/mySocket.cpp	/^int myTcpSocket::sendMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+myTcpSocket::sendMessage	singleServerMultipleClientSrc/server/mySocket.h	/^	int sendMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+myTcpSocket::~myTcpSocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^myTcpSocket::~myTcpSocket()$/;"	f	class:myTcpSocket	signature:()
+myTcpSocket::~myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	~myTcpSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+myTcpSocket::~myTcpSocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^myTcpSocket::~myTcpSocket()$/;"	f	class:myTcpSocket	signature:()
+myTcpSocket::~myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	~myTcpSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+myThread	singleServerMultipleClientSrc/server/myThread.cpp	/^myThread::myThread(LPTHREAD_START_ROUTINE pThreadFunc,$/;"	f	class:myThread	signature:(LPTHREAD_START_ROUTINE pThreadFunc, LPVOID pThreadFuncParameter,DWORD exeFlags, DWORD sSize,BOOL inheritable)
+myThread	singleServerMultipleClientSrc/server/myThread.h	/^    myThread($/;"	p	class:myThread	access:public	signature:( LPTHREAD_START_ROUTINE pThreadFunc, LPVOID pThreadFuncParameter=NULL, DWORD exeFlags=0, DWORD sSize=0, BOOL inheritable=FALSE )
+myThread	singleServerMultipleClientSrc/server/myThread.h	/^class myThread  $/;"	c
+myThread::disablePriorityBoost	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::disablePriorityBoost(BOOL disable)$/;"	f	class:myThread	signature:(BOOL disable)
+myThread::disablePriorityBoost	singleServerMultipleClientSrc/server/myThread.h	/^    void disablePriorityBoost(BOOL);$/;"	p	class:myThread	access:public	signature:(BOOL)
+myThread::execute	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::execute()$/;"	f	class:myThread	signature:()
+myThread::execute	singleServerMultipleClientSrc/server/myThread.h	/^	void execute();$/;"	p	class:myThread	access:public	signature:()
+myThread::executeFlag	singleServerMultipleClientSrc/server/myThread.h	/^	DWORD  executeFlag;$/;"	m	class:myThread	access:private
+myThread::exitCode	singleServerMultipleClientSrc/server/myThread.h	/^    DWORD exitCode;$/;"	m	class:myThread	access:private
+myThread::getErrorDetail	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::getErrorDetail(int& errCode,string& header)$/;"	f	class:myThread	signature:(int& errCode,string& header)
+myThread::getErrorDetail	singleServerMultipleClientSrc/server/myThread.h	/^    static void getErrorDetail(int&,string&);$/;"	p	class:myThread	access:private	signature:(int&,string&)
+myThread::getExitCode	singleServerMultipleClientSrc/server/myThread.cpp	/^DWORD myThread::getExitCode()$/;"	f	class:myThread	signature:()
+myThread::getExitCode	singleServerMultipleClientSrc/server/myThread.h	/^    DWORD getExitCode();    $/;"	p	class:myThread	access:public	signature:()
+myThread::getThreadArgument	singleServerMultipleClientSrc/server/myThread.h	/^	LPVOID getThreadArgument() { return threadArgument; }$/;"	f	class:myThread	access:public	signature:()
+myThread::getThreadId	singleServerMultipleClientSrc/server/myThread.cpp	/^DWORD myThread::getThreadId()$/;"	f	class:myThread	signature:()
+myThread::getThreadId	singleServerMultipleClientSrc/server/myThread.h	/^	DWORD getThreadId();$/;"	p	class:myThread	access:public	signature:()
+myThread::getThreadPriority	singleServerMultipleClientSrc/server/myThread.cpp	/^int myThread::getThreadPriority()$/;"	f	class:myThread	signature:()
+myThread::getThreadPriority	singleServerMultipleClientSrc/server/myThread.h	/^    int  getThreadPriority();$/;"	p	class:myThread	access:public	signature:()
+myThread::getThreadStatistics	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::getThreadStatistics(LPFILETIME  creationTime,LPFILETIME exitTime,$/;"	f	class:myThread	signature:(LPFILETIME creationTime,LPFILETIME exitTime, LPFILETIME kernelTime,LPFILETIME userTime)
+myThread::getThreadStatistics	singleServerMultipleClientSrc/server/myThread.h	/^	void  getThreadStatistics(LPFILETIME,LPFILETIME,LPFILETIME,LPFILETIME);$/;"	p	class:myThread	access:public	signature:(LPFILETIME,LPFILETIME,LPFILETIME,LPFILETIME)
+myThread::isPriorityBoostDisabled	singleServerMultipleClientSrc/server/myThread.cpp	/^BOOL myThread::isPriorityBoostDisabled()$/;"	f	class:myThread	signature:()
+myThread::isPriorityBoostDisabled	singleServerMultipleClientSrc/server/myThread.h	/^	BOOL isPriorityBoostDisabled();$/;"	p	class:myThread	access:public	signature:()
+myThread::myThread	singleServerMultipleClientSrc/server/myThread.cpp	/^myThread::myThread(LPTHREAD_START_ROUTINE pThreadFunc,$/;"	f	class:myThread	signature:(LPTHREAD_START_ROUTINE pThreadFunc, LPVOID pThreadFuncParameter,DWORD exeFlags, DWORD sSize,BOOL inheritable)
+myThread::myThread	singleServerMultipleClientSrc/server/myThread.h	/^    myThread($/;"	p	class:myThread	access:public	signature:( LPTHREAD_START_ROUTINE pThreadFunc, LPVOID pThreadFuncParameter=NULL, DWORD exeFlags=0, DWORD sSize=0, BOOL inheritable=FALSE )
+myThread::resume	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::resume()$/;"	f	class:myThread	signature:()
+myThread::resume	singleServerMultipleClientSrc/server/myThread.h	/^    void resume();$/;"	p	class:myThread	access:public	signature:()
+myThread::sa	singleServerMultipleClientSrc/server/myThread.h	/^    LPSECURITY_ATTRIBUTES sa;$/;"	m	class:myThread	access:private
+myThread::setIdealProcessor	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::setIdealProcessor(DWORD proc)$/;"	f	class:myThread	signature:(DWORD proc)
+myThread::setIdealProcessor	singleServerMultipleClientSrc/server/myThread.h	/^	void setIdealProcessor(DWORD);$/;"	p	class:myThread	access:public	signature:(DWORD)
+myThread::setProcessorMask	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::setProcessorMask(DWORD mask)$/;"	f	class:myThread	signature:(DWORD mask)
+myThread::setProcessorMask	singleServerMultipleClientSrc/server/myThread.h	/^    void setProcessorMask(DWORD);$/;"	p	class:myThread	access:public	signature:(DWORD)
+myThread::setThreadPriority	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::setThreadPriority(int thePriority)$/;"	f	class:myThread	signature:(int thePriority)
+myThread::setThreadPriority	singleServerMultipleClientSrc/server/myThread.h	/^	void setThreadPriority(int);$/;"	p	class:myThread	access:public	signature:(int)
+myThread::stackSize	singleServerMultipleClientSrc/server/myThread.h	/^	DWORD  stackSize;$/;"	m	class:myThread	access:private
+myThread::suspend	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::suspend()$/;"	f	class:myThread	signature:()
+myThread::suspend	singleServerMultipleClientSrc/server/myThread.h	/^	void suspend();$/;"	p	class:myThread	access:public	signature:()
+myThread::thread	singleServerMultipleClientSrc/server/myThread.h	/^    HANDLE thread;$/;"	m	class:myThread	access:private
+myThread::threadArgument	singleServerMultipleClientSrc/server/myThread.h	/^	LPVOID threadArgument;$/;"	m	class:myThread	access:private
+myThread::threadFunction	singleServerMultipleClientSrc/server/myThread.h	/^	LPTHREAD_START_ROUTINE threadFunction;$/;"	m	class:myThread	access:private
+myThread::threadId	singleServerMultipleClientSrc/server/myThread.h	/^    DWORD  threadId;$/;"	m	class:myThread	access:private
+myThread::waitForThreadToFinish	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::waitForThreadToFinish()$/;"	f	class:myThread	signature:()
+myThread::waitForThreadToFinish	singleServerMultipleClientSrc/server/myThread.h	/^	void waitForThreadToFinish();    $/;"	p	class:myThread	access:public	signature:()
+myThread::~myThread	singleServerMultipleClientSrc/server/myThread.cpp	/^myThread::~myThread()$/;"	f	class:myThread	signature:()
+myThread::~myThread	singleServerMultipleClientSrc/server/myThread.h	/^    ~myThread();$/;"	p	class:myThread	access:public	signature:()
+myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^myThreadArgument::myThreadArgument(myTcpSocket* client,mySemaphore* coutSem,string& cName)$/;"	f	class:myThreadArgument	signature:(myTcpSocket* client,mySemaphore* coutSem,string& cName)
+myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myThreadArgument(myTcpSocket* client,mySemaphore* coutSem,string& cName);$/;"	p	class:myThreadArgument	access:public	signature:(myTcpSocket* client,mySemaphore* coutSem,string& cName)
+myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^class myThreadArgument$/;"	c
+myThreadArgument::addClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^void myThreadArgument::addClientArgument(myThreadArgument* argument)$/;"	f	class:myThreadArgument	signature:(myThreadArgument* argument)
+myThreadArgument::addClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	void addClientArgument(myThreadArgument*);$/;"	p	class:myThreadArgument	access:public	signature:(myThreadArgument*)
+myThreadArgument::clientArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myThreadArgument* clientArgument[MAX_NUM_CLIENTS];$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::clientConnection	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myTcpSocket* clientConnection;    \/\/ the connecting socket to the client$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::coutSemaphore	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	mySemaphore* coutSemaphore;       \/\/ semaphore for accessing the log file$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::exitEvent	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myEvent* exitEvent;$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::getClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^myThreadArgument* myThreadArgument::getClientArgument(int index)$/;"	f	class:myThreadArgument	signature:(int index)
+myThreadArgument::getClientArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myThreadArgument* getClientArgument(int);$/;"	p	class:myThreadArgument	access:public	signature:(int)
+myThreadArgument::getClientConnect	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myTcpSocket* getClientConnect()     { return clientConnection; }$/;"	f	class:myThreadArgument	access:public	signature:()
+myThreadArgument::getCoutSemaphore	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	mySemaphore* getCoutSemaphore()     { return coutSemaphore; }$/;"	f	class:myThreadArgument	access:public	signature:()
+myThreadArgument::getExitEvent	singleServerMultipleClientSrc/server/myThreadArgument.h	/^    myEvent* getExitEvent() { return exitEvent;}$/;"	f	class:myThreadArgument	access:public	signature:()
+myThreadArgument::getHostName	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	string&      getHostName()          { return hostName; }$/;"	f	class:myThreadArgument	access:public	signature:()
+myThreadArgument::getSignalToEnd	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	bool getSignalToEnd()               { return signalToEnd; }$/;"	f	class:myThreadArgument	access:public	signature:()
+myThreadArgument::hostName	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	string hostName;                \/\/ the name of the client$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^myThreadArgument::myThreadArgument(myTcpSocket* client,mySemaphore* coutSem,string& cName)$/;"	f	class:myThreadArgument	signature:(myTcpSocket* client,mySemaphore* coutSem,string& cName)
+myThreadArgument::myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	myThreadArgument(myTcpSocket* client,mySemaphore* coutSem,string& cName);$/;"	p	class:myThreadArgument	access:public	signature:(myTcpSocket* client,mySemaphore* coutSem,string& cName)
+myThreadArgument::numOfConnectedClients	singleServerMultipleClientSrc/server/myThreadArgument.h	/^    int numOfConnectedClients;$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::setSignalToEnd	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	void setSignalToEnd(bool s)         { signalToEnd = s; }$/;"	f	class:myThreadArgument	access:public	signature:(bool s)
+myThreadArgument::signalToEnd	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	bool signalToEnd;$/;"	m	class:myThreadArgument	access:private
+myThreadArgument::~myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^myThreadArgument::~myThreadArgument() $/;"	f	class:myThreadArgument	signature:()
+myThreadArgument::~myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	~myThreadArgument() ;$/;"	p	class:myThreadArgument	access:public	signature:()
+myThreadArgument_H	singleServerMultipleClientSrc/server/myThreadArgument.h	2;"	d
+myThread_H	singleServerMultipleClientSrc/server/myThread.h	2;"	d
+myclass	myclass.cpp	/^		myclass():i(0),j(0){}$/;"	f	class:myclass	access:public	signature:()
+myclass	myclass.cpp	/^class myclass {$/;"	c	file:
+myclass::get	myclass.cpp	/^		int get(){$/;"	f	class:myclass	access:public	signature:()
+myclass::gun	myclass.cpp	/^		int gun(){}$/;"	f	class:myclass	file:	access:private	signature:()
+myclass::i	myclass.cpp	/^		int i;$/;"	m	class:myclass	file:	access:public
+myclass::j	myclass.cpp	/^		int j;$/;"	m	class:myclass	file:	access:public
+myclass::myclass	myclass.cpp	/^		myclass():i(0),j(0){}$/;"	f	class:myclass	access:public	signature:()
+myclass::num	myclass.cpp	/^		int num;$/;"	m	class:myclass	file:	access:private
+myclass::numi	myclass.cpp	/^		static int numi(){return 1;}$/;"	f	class:myclass	access:public	signature:()
+myclass::set	myclass.cpp	/^		void set(int k=0){$/;"	f	class:myclass	access:public	signature:(int k=0)
+mz	maze.cpp	/^int mz[8][8]={{0,0,1,1,1,1,1,1},$/;"	v
+ndptr	tree.cpp	/^typedef struct node* ndptr;$/;"	t	typeref:struct:node	file:
+ne	ANARC05B.cpp	/^int ne,prev;$/;"	v
+next	main.cpp	/^  Node<T>* next () const { return next_; }$/;"	f	class:Node	access:public	signature:() const
+next	main.cpp	/^  void next (Node<T> *new_next) { next_ = new_next; };$/;"	f	class:Node	access:public	signature:(Node<T> *new_next)
+next_	main.cpp	/^  Node<T> *next_;$/;"	m	class:Node	file:	access:private
+node	tree.cpp	/^struct node$/;"	s	file:
+node::data	tree.cpp	/^	int data;$/;"	m	struct:node	file:	access:public
+node::left	tree.cpp	/^	struct node *left;$/;"	m	struct:node	typeref:struct:node::node	file:	access:public
+node::right	tree.cpp	/^	struct node *right;$/;"	m	struct:node	typeref:struct:node::node	file:	access:public
+num	myclass.cpp	/^		int num;$/;"	m	class:myclass	file:	access:private
+numOfConnectedClients	singleServerMultipleClientSrc/server/myThreadArgument.h	/^    int numOfConnectedClients;$/;"	m	class:myThreadArgument	access:private
+number_instantiated	main.cpp	/^int number_instantiated = 0;$/;"	v
+numi	myclass.cpp	/^		static int numi(){return 1;}$/;"	f	class:myclass	access:public	signature:()
+one	pa0.cpp	/^unsigned long int res=0,count=0,one=1;$/;"	v
+openHostDb	singleServerMultipleClientSrc/client/myHostInfo.h	/^		void openHostDb()$/;"	f	class:myHostInfo	access:public	signature:()
+openHostDb	singleServerMultipleClientSrc/server/myHostInfo.h	/^		void openHostDb()$/;"	f	class:myHostInfo	access:public	signature:()
+openLog	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::openLog(const string& fileName, int mode)$/;"	f	class:myLog	signature:(const string& fileName, int mode)
+openLog	singleServerMultipleClientSrc/client/myLog.h	/^   void  openLog(const string&,int);$/;"	p	class:myLog	access:private	signature:(const string&,int)
+operator <<	singleServerMultipleClientSrc/client/mySocket.cpp	/^ostream& operator<<(ostream& io,mySocket& s)$/;"	f	signature:(ostream& io,mySocket& s)
+operator <<	singleServerMultipleClientSrc/client/mySocket.h	/^	friend ostream& operator<<(ostream&,mySocket&);$/;"	p	class:mySocket	access:friend	signature:(ostream&,mySocket&)
+operator <<	singleServerMultipleClientSrc/server/mySocket.cpp	/^ostream& operator<<(ostream& io,mySocket& s)$/;"	f	signature:(ostream& io,mySocket& s)
+operator <<	singleServerMultipleClientSrc/server/mySocket.h	/^	friend ostream& operator<<(ostream&,mySocket&);$/;"	p	class:mySocket	access:friend	signature:(ostream&,mySocket&)
+p	3.cpp	/^int p(char ch)$/;"	f	signature:(char ch)
+p	anat.cpp	/^ll k,p;$/;"	v
+p	pa0.cpp	/^unsigned long int step,p;$/;"	v
+pfnAPC	singleServerMultipleClientSrc/server/myEvent.h	/^    PAPCFUNC pfnAPC;               \/\/ address of user-provided callback$/;"	m	class:myEvent	access:private
+portNumber	singleServerMultipleClientSrc/client/mySocket.h	/^    int portNumber;        \/\/ Socket port number    $/;"	m	class:mySocket	access:protected
+portNumber	singleServerMultipleClientSrc/server/mySocket.h	/^    int portNumber;        \/\/ Socket port number    $/;"	m	class:mySocket	access:protected
+pow	PA06ANT.cpp	/^void pow(int n)$/;"	f	signature:(int n)
+pow	pa0.cpp	/^void pow(int st,int pr,unsigned int stp)$/;"	f	signature:(int st,int pr,unsigned int stp)
+power	anat.cpp	/^vector<vector<ll> > power(vector<vector<ll> > M, ll left) {$/;"	f	signature:(vector<vector<ll> > M, ll left)
+power	fib.cpp	/^void power(long unsigned int n){$/;"	f	signature:(long unsigned int n)
+prev	ANARC05B.cpp	/^int ne,prev;$/;"	v
+print	main.cpp	/^  void print (void) {$/;"	f	class:LinkedList	access:public	signature:(void)
+printHeader	singleServerMultipleClientSrc/client/myLog.cpp	/^void myLog::printHeader(int theEnd)$/;"	f	class:myLog	signature:(int theEnd)
+printHeader	singleServerMultipleClientSrc/client/myLog.h	/^   void  printHeader(int);$/;"	p	class:myLog	access:private	signature:(int)
+pulseEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::pulseEvent()$/;"	f	class:myEvent	signature:()
+pulseEvent	singleServerMultipleClientSrc/server/myEvent.h	/^	void pulseEvent();    \/\/ wrapper to PulseEvent()$/;"	p	class:myEvent	access:public	signature:()
+pw	UJ1.c	/^int pw(int n,int d){$/;"	f	signature:(int n,int d)
+queueUserAPC	singleServerMultipleClientSrc/server/myEvent.h	/^	BOOL queueUserAPC;        $/;"	m	class:myEvent	access:private
+r	s.c	/^i;double r[]={175297239055116917538816e2,591298870944180608};$/;"	v
+readConfigFile	parser.cpp	/^   void readConfigFile(std::string&,std::string&) throw(std::runtime_error);$/;"	p	class:GetConfig	file:	access:public	signature:(std::string&,std::string&)
+readConfigFile	parser.cpp	/^void GetConfig::readConfigFile(string& configFile,string& temp)$/;"	f	class:GetConfig	signature:(string& configFile,string& temp)
+readConfigFile	parser1.cpp	/^   void readConfigFile(std::string&,std::string&) throw(std::runtime_error);$/;"	p	class:GetConfig	file:	access:public	signature:(std::string&,std::string&)
+readConfigFile	parser1.cpp	/^void GetConfig::readConfigFile(string &configFile,string &temp)$/;"	f	class:GetConfig	signature:(string &configFile,string &temp)
+readServerConfig	singleServerMultipleClientSrc/client/myClient.cpp	/^void readServerConfig(string& serverIPAddr)$/;"	f	signature:(string& serverIPAddr)
+readServerConfig	singleServerMultipleClientSrc/client/myClient.cpp	/^void readServerConfig(string&);$/;"	p	file:	signature:(string&)
+recieveMessage	singleServerMultipleClientSrc/client/mySocket.cpp	/^int myTcpSocket::recieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+recieveMessage	singleServerMultipleClientSrc/client/mySocket.h	/^	int recieveMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+recieveMessage	singleServerMultipleClientSrc/server/mySocket.cpp	/^int myTcpSocket::recieveMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+recieveMessage	singleServerMultipleClientSrc/server/mySocket.h	/^	int recieveMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+remove	main.cpp	/^  int remove (const T &item_to_remove) {$/;"	f	class:LinkedList	access:public	signature:(const T &item_to_remove)
+res	pa0.cpp	/^unsigned long int res=0,count=0,one=1;$/;"	v
+resetEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::resetEvent()$/;"	f	class:myEvent	signature:()
+resetEvent	singleServerMultipleClientSrc/server/myEvent.h	/^	void resetEvent();    \/\/ wrapper to ResetEvent()$/;"	p	class:myEvent	access:public	signature:()
+response	singleServerMultipleClientSrc/client/myException.cpp	/^void myException::response()$/;"	f	class:myException	signature:()
+response	singleServerMultipleClientSrc/client/myException.h	/^	virtual void response();  $/;"	p	class:myException	access:public	signature:()
+response	singleServerMultipleClientSrc/server/myException.cpp	/^void myException::response()$/;"	f	class:myException	signature:()
+response	singleServerMultipleClientSrc/server/myException.h	/^	virtual void response();  $/;"	p	class:myException	access:public	signature:()
+resume	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::resume()$/;"	f	class:myThread	signature:()
+resume	singleServerMultipleClientSrc/server/myThread.h	/^    void resume();$/;"	p	class:myThread	access:public	signature:()
+right	tree.cpp	/^	struct node *right;$/;"	m	struct:node	typeref:struct:node::node	file:	access:public
+rotate	rec.cpp	/^void rotate(char A[],int la)$/;"	f	signature:(char A[],int la)
+s	tree.cpp	/^ndptr s[20];$/;"	v
+sGetError	singleServerMultipleClientSrc/client/mySocket.h	/^		char *sGetError()$/;"	f	class:mySocket	access:private	signature:()
+sGetError	singleServerMultipleClientSrc/server/mySocket.h	/^		char *sGetError()$/;"	f	class:mySocket	access:private	signature:()
+sa	singleServerMultipleClientSrc/server/myEvent.h	/^	LPSECURITY_ATTRIBUTES sa;      \/\/ SECURITY_ATTRBUTES structure$/;"	m	class:myEvent	access:private
+sa	singleServerMultipleClientSrc/server/mySemaphore.h	/^    LPSECURITY_ATTRIBUTES sa;$/;"	m	class:mySemaphore	access:private
+sa	singleServerMultipleClientSrc/server/myThread.h	/^    LPSECURITY_ATTRIBUTES sa;$/;"	m	class:myThread	access:private
+searchHostDB	singleServerMultipleClientSrc/client/myHostInfo.h	/^		char searchHostDB;     \/\/ search the host database flag$/;"	m	class:myHostInfo	access:private
+searchHostDB	singleServerMultipleClientSrc/server/myHostInfo.h	/^		char searchHostDB;     \/\/ search the host database flag$/;"	m	class:myHostInfo	access:private
+semaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    HANDLE semaphore;$/;"	m	class:mySemaphore	access:private
+semaphoreName	singleServerMultipleClientSrc/server/mySemaphore.h	/^    string semaphoreName;$/;"	m	class:mySemaphore	access:private
+sendMessage	singleServerMultipleClientSrc/client/mySocket.cpp	/^int myTcpSocket::sendMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+sendMessage	singleServerMultipleClientSrc/client/mySocket.h	/^	int sendMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+sendMessage	singleServerMultipleClientSrc/server/mySocket.cpp	/^int myTcpSocket::sendMessage(string& message)$/;"	f	class:myTcpSocket	signature:(string& message)
+sendMessage	singleServerMultipleClientSrc/server/mySocket.h	/^	int sendMessage(string&);$/;"	p	class:myTcpSocket	access:public	signature:(string&)
+serverHandleThread	singleServerMultipleClientSrc/server/winSeverForMultipleClient.cpp	/^DWORD WINAPI serverHandleThread(LPVOID threadInfo)$/;"	f	signature:(LPVOID threadInfo)
+set	myclass.cpp	/^		void set(int k=0){$/;"	f	class:myclass	access:public	signature:(int k=0)
+setDebug	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setDebug(int debugToggle)$/;"	f	class:mySocket	signature:(int debugToggle)
+setDebug	singleServerMultipleClientSrc/client/mySocket.h	/^    void setDebug(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setDebug	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setDebug(int debugToggle)$/;"	f	class:mySocket	signature:(int debugToggle)
+setDebug	singleServerMultipleClientSrc/server/mySocket.h	/^    void setDebug(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^void myEvent::setEvent()$/;"	f	class:myEvent	signature:()
+setEvent	singleServerMultipleClientSrc/server/myEvent.h	/^    void setEvent();      \/\/ wrapper to SetEvent()  $/;"	p	class:myEvent	access:public	signature:()
+setIdealProcessor	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::setIdealProcessor(DWORD proc)$/;"	f	class:myThread	signature:(DWORD proc)
+setIdealProcessor	singleServerMultipleClientSrc/server/myThread.h	/^	void setIdealProcessor(DWORD);$/;"	p	class:myThread	access:public	signature:(DWORD)
+setKeepAlive	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setKeepAlive(int aliveToggle)$/;"	f	class:mySocket	signature:(int aliveToggle)
+setKeepAlive	singleServerMultipleClientSrc/client/mySocket.h	/^    void setKeepAlive(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setKeepAlive	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setKeepAlive(int aliveToggle)$/;"	f	class:mySocket	signature:(int aliveToggle)
+setKeepAlive	singleServerMultipleClientSrc/server/mySocket.h	/^    void setKeepAlive(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setLingerOnOff	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setLingerOnOff(bool lingerOn)$/;"	f	class:mySocket	signature:(bool lingerOn)
+setLingerOnOff	singleServerMultipleClientSrc/client/mySocket.h	/^    void setLingerOnOff(bool);$/;"	p	class:mySocket	access:public	signature:(bool)
+setLingerOnOff	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setLingerOnOff(bool lingerOn)$/;"	f	class:mySocket	signature:(bool lingerOn)
+setLingerOnOff	singleServerMultipleClientSrc/server/mySocket.h	/^    void setLingerOnOff(bool);$/;"	p	class:mySocket	access:public	signature:(bool)
+setLingerSeconds	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setLingerSeconds(int seconds)$/;"	f	class:mySocket	signature:(int seconds)
+setLingerSeconds	singleServerMultipleClientSrc/client/mySocket.h	/^	void setLingerSeconds(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setLingerSeconds	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setLingerSeconds(int seconds)$/;"	f	class:mySocket	signature:(int seconds)
+setLingerSeconds	singleServerMultipleClientSrc/server/mySocket.h	/^	void setLingerSeconds(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setProcessorMask	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::setProcessorMask(DWORD mask)$/;"	f	class:myThread	signature:(DWORD mask)
+setProcessorMask	singleServerMultipleClientSrc/server/myThread.h	/^    void setProcessorMask(DWORD);$/;"	p	class:myThread	access:public	signature:(DWORD)
+setReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setReceiveBufSize(int receiveBufSize)$/;"	f	class:mySocket	signature:(int receiveBufSize)
+setReceiveBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    void setReceiveBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setReceiveBufSize(int receiveBufSize)$/;"	f	class:mySocket	signature:(int receiveBufSize)
+setReceiveBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    void setReceiveBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setReuseAddr	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setReuseAddr(int reuseToggle)$/;"	f	class:mySocket	signature:(int reuseToggle)
+setReuseAddr	singleServerMultipleClientSrc/client/mySocket.h	/^    void setReuseAddr(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setReuseAddr	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setReuseAddr(int reuseToggle)$/;"	f	class:mySocket	signature:(int reuseToggle)
+setReuseAddr	singleServerMultipleClientSrc/server/mySocket.h	/^    void setReuseAddr(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setSendBufSize	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setSendBufSize(int sendBufSize)$/;"	f	class:mySocket	signature:(int sendBufSize)
+setSendBufSize	singleServerMultipleClientSrc/client/mySocket.h	/^    void setSendBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setSendBufSize	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setSendBufSize(int sendBufSize)$/;"	f	class:mySocket	signature:(int sendBufSize)
+setSendBufSize	singleServerMultipleClientSrc/server/mySocket.h	/^    void setSendBufSize(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setSignalToEnd	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	void setSignalToEnd(bool s)         { signalToEnd = s; }$/;"	f	class:myThreadArgument	access:public	signature:(bool s)
+setSocketBlocking	singleServerMultipleClientSrc/client/mySocket.cpp	/^void mySocket::setSocketBlocking(int blockingToggle)$/;"	f	class:mySocket	signature:(int blockingToggle)
+setSocketBlocking	singleServerMultipleClientSrc/client/mySocket.h	/^    void setSocketBlocking(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setSocketBlocking	singleServerMultipleClientSrc/server/mySocket.cpp	/^void mySocket::setSocketBlocking(int blockingToggle)$/;"	f	class:mySocket	signature:(int blockingToggle)
+setSocketBlocking	singleServerMultipleClientSrc/server/mySocket.h	/^    void setSocketBlocking(int);$/;"	p	class:mySocket	access:public	signature:(int)
+setSocketId	singleServerMultipleClientSrc/client/mySocket.h	/^	void setSocketId(int socketFd) { socketId = socketFd; }$/;"	f	class:mySocket	access:protected	signature:(int socketFd)
+setSocketId	singleServerMultipleClientSrc/server/mySocket.h	/^	void setSocketId(int socketFd) { socketId = socketFd; }$/;"	f	class:mySocket	access:protected	signature:(int socketFd)
+setThreadPriority	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::setThreadPriority(int thePriority)$/;"	f	class:myThread	signature:(int thePriority)
+setThreadPriority	singleServerMultipleClientSrc/server/myThread.h	/^	void setThreadPriority(int);$/;"	p	class:myThread	access:public	signature:(int)
+signalToEnd	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	bool signalToEnd;$/;"	m	class:myThreadArgument	access:private
+socketId	singleServerMultipleClientSrc/client/mySocket.h	/^    int socketId;          \/\/ Socket file descriptor$/;"	m	class:mySocket	access:protected
+socketId	singleServerMultipleClientSrc/server/mySocket.h	/^    int socketId;          \/\/ Socket file descriptor$/;"	m	class:mySocket	access:protected
+stackSize	singleServerMultipleClientSrc/server/myThread.h	/^	DWORD  stackSize;$/;"	m	class:myThread	access:private
+start	PA06ANT.cpp	/^char start,dest;$/;"	v
+start	pa0.cpp	/^char start,dest;$/;"	v
+startTime	singleServerMultipleClientSrc/client/myLog.h	/^   time_t startTime;$/;"	m	class:myLog	access:private
+std	LCS0.c	/^using namespace std;$/;"	v
+std	xml.test.c	/^using namespace std;$/;"	v
+step	pa0.cpp	/^unsigned long int step,p;$/;"	v
+suspend	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::suspend()$/;"	f	class:myThread	signature:()
+suspend	singleServerMultipleClientSrc/server/myThread.h	/^	void suspend();$/;"	p	class:myThread	access:public	signature:()
+t	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+t	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+temp	PA06ANT.cpp	/^unsigned long int i,j,k,temp,a[8][8],t[8][8],m[8][8][8];$/;"	v
+temp	fib.cpp	/^int m[2][2]={{1,1},{1,0}},t[2][2],a[2][2],i,j,k,temp;$/;"	v
+tempparser	parser.cpp	/^   xercesc::XercesDOMParser *tempparser;$/;"	m	class:GetConfig	file:	access:private
+thread	singleServerMultipleClientSrc/server/myEvent.h	/^    HANDLE thread;                 \/\/ handle to thread$/;"	m	class:myEvent	access:private
+thread	singleServerMultipleClientSrc/server/myThread.h	/^    HANDLE thread;$/;"	m	class:myThread	access:private
+threadArgument	singleServerMultipleClientSrc/server/myThread.h	/^	LPVOID threadArgument;$/;"	m	class:myThread	access:private
+threadFunction	singleServerMultipleClientSrc/server/myThread.h	/^	LPTHREAD_START_ROUTINE threadFunction;$/;"	m	class:myThread	access:private
+threadID	singleServerMultipleClientSrc/server/myEvent.h	/^    DWORD  threadID;               \/\/ thread id$/;"	m	class:myEvent	access:private
+threadId	singleServerMultipleClientSrc/server/myThread.h	/^    DWORD  threadId;$/;"	m	class:myThread	access:private
+trav	PA06ANT.cpp	/^int trav[8][8]={0};$/;"	v
+u	PA06ANT.cpp	/^unsigned long int u[8][8]={{0,1,0,1,1,0,0,0},$/;"	v
+u	pa0.cpp	/^int u[8][8]={{0,1,0,1,1,0,0,0},$/;"	v
+unlock	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^void mySemaphore::unlock()$/;"	f	class:mySemaphore	signature:()
+unlock	singleServerMultipleClientSrc/server/mySemaphore.h	/^    void unlock();$/;"	p	class:mySemaphore	access:public	signature:()
+value	main.cpp	/^  const T& value () const { return value_; }$/;"	f	class:Node	access:public	signature:() const
+value	main.cpp	/^  void value (const T &value) { value_ = value; }$/;"	f	class:Node	access:public	signature:(const T &value)
+value_	main.cpp	/^  T value_;$/;"	m	class:Node	file:	access:private
+waitForEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^BOOL myEvent::waitForEvent(DWORD waitTime)$/;"	f	class:myEvent	signature:(DWORD waitTime)
+waitForEvent	singleServerMultipleClientSrc/server/myEvent.h	/^    BOOL waitForEvent(DWORD waitTime=INFINITE);$/;"	p	class:myEvent	access:public	signature:(DWORD waitTime=INFINITE)
+waitForThreadToFinish	singleServerMultipleClientSrc/server/myThread.cpp	/^void myThread::waitForThreadToFinish()$/;"	f	class:myThread	signature:()
+waitForThreadToFinish	singleServerMultipleClientSrc/server/myThread.h	/^	void waitForThreadToFinish();    $/;"	p	class:myThread	access:public	signature:()
+winLog	singleServerMultipleClientSrc/client/myClient.cpp	/^myLog winLog;$/;"	v
+winLog	singleServerMultipleClientSrc/server/winSeverForMultipleClient.cpp	/^myLog winLog;$/;"	v
+x	temp1.c	/^int x;$/;"	v
+x	temp2.c	/^int x=42;$/;"	v
+xercesc	xml.test.c	/^using namespace xercesc;$/;"	v
+~GetConfig	parser.cpp	/^  ~GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+~GetConfig	parser.cpp	/^GetConfig::~GetConfig()$/;"	f	class:GetConfig	signature:()
+~GetConfig	parser1.cpp	/^  ~GetConfig();$/;"	p	class:GetConfig	file:	access:public	signature:()
+~GetConfig	parser1.cpp	/^GetConfig::~GetConfig()$/;"	f	class:GetConfig	signature:()
+~LinkedList	main.cpp	/^  ~LinkedList () { delete_nodes (); };$/;"	f	class:LinkedList	access:public	signature:()
+~Node	main.cpp	/^  ~Node () {$/;"	f	class:Node	access:public	signature:()
+~myEvent	singleServerMultipleClientSrc/server/myEvent.cpp	/^myEvent::~myEvent()$/;"	f	class:myEvent	signature:()
+~myEvent	singleServerMultipleClientSrc/server/myEvent.h	/^    virtual ~myEvent();$/;"	p	class:myEvent	access:public	signature:()
+~myException	singleServerMultipleClientSrc/client/myException.h	/^	~myException() {};$/;"	f	class:myException	access:public	signature:()
+~myException	singleServerMultipleClientSrc/server/myException.h	/^	~myException() {};$/;"	f	class:myException	access:public	signature:()
+~myHostInfo	singleServerMultipleClientSrc/client/myHostInfo.h	/^    ~myHostInfo()$/;"	f	class:myHostInfo	access:public	signature:()
+~myHostInfo	singleServerMultipleClientSrc/server/myHostInfo.h	/^    ~myHostInfo()$/;"	f	class:myHostInfo	access:public	signature:()
+~myLog	singleServerMultipleClientSrc/client/myLog.cpp	/^myLog::~myLog()$/;"	f	class:myLog	signature:()
+~myLog	singleServerMultipleClientSrc/client/myLog.h	/^   virtual ~myLog();$/;"	p	class:myLog	access:public	signature:()
+~mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.cpp	/^mySemaphore::~mySemaphore()$/;"	f	class:mySemaphore	signature:()
+~mySemaphore	singleServerMultipleClientSrc/server/mySemaphore.h	/^    virtual ~mySemaphore();$/;"	p	class:mySemaphore	access:public	signature:()
+~mySocket	singleServerMultipleClientSrc/client/mySocket.h	/^    virtual ~mySocket()$/;"	f	class:mySocket	access:public	signature:()
+~mySocket	singleServerMultipleClientSrc/server/mySocket.h	/^    virtual ~mySocket()$/;"	f	class:mySocket	access:public	signature:()
+~myTcpSocket	singleServerMultipleClientSrc/client/mySocket.cpp	/^myTcpSocket::~myTcpSocket()$/;"	f	class:myTcpSocket	signature:()
+~myTcpSocket	singleServerMultipleClientSrc/client/mySocket.h	/^	~myTcpSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+~myTcpSocket	singleServerMultipleClientSrc/server/mySocket.cpp	/^myTcpSocket::~myTcpSocket()$/;"	f	class:myTcpSocket	signature:()
+~myTcpSocket	singleServerMultipleClientSrc/server/mySocket.h	/^	~myTcpSocket();$/;"	p	class:myTcpSocket	access:public	signature:()
+~myThread	singleServerMultipleClientSrc/server/myThread.cpp	/^myThread::~myThread()$/;"	f	class:myThread	signature:()
+~myThread	singleServerMultipleClientSrc/server/myThread.h	/^    ~myThread();$/;"	p	class:myThread	access:public	signature:()
+~myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.cpp	/^myThreadArgument::~myThreadArgument() $/;"	f	class:myThreadArgument	signature:()
+~myThreadArgument	singleServerMultipleClientSrc/server/myThreadArgument.h	/^	~myThreadArgument() ;$/;"	p	class:myThreadArgument	access:public	signature:()

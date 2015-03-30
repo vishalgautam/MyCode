@@ -1,0 +1,126 @@
+#include<iostream>
+#include<list>
+#include<climits>
+using namespace std;
+int size;
+int v[10000],ix[10000],mapping[10001];
+void heapify(int ind){
+    int l=ind*2,r=ind*2+1,key=v[ind];
+    int smallest=ind;
+    if(l<=size&&key>v[l]){
+        smallest=l;
+        key=v[l];
+    }
+    if(r<=size&&key>v[r]){
+        smallest=r;
+        key=v[r];
+    }
+    if(smallest!=ind){
+        int temp=v[ind];
+        v[ind]=key;
+        v[smallest]=temp;
+
+
+        temp=ix[ind];
+        ix[ind]=ix[smallest];
+        ix[smallest]=temp;
+
+        mapping[ix[ind]]=ind;
+        mapping[ix[smallest]]=smallest;
+        heapify(smallest);
+    }
+}
+void delmin(){
+    v[1]=v[size];
+    ix[1]=ix[size];
+    mapping[ix[1]]=1;
+    size--;
+    heapify(1);
+}
+void heapify_up(int id){
+    int p=id/2,temp;
+    if(p>=1&&v[p]>v[id]){
+        temp=v[p];
+        v[p]=v[id];
+        v[id]=temp;
+
+        temp=ix[p];
+        ix[p]=ix[id];
+        ix[id]=temp;
+
+        mapping[ix[p]]=p;
+        mapping[ix[id]]=id;
+        heapify_up(p);
+    }
+}
+
+typedef struct node_{
+    public:
+    int d;
+    int wt;
+}node;
+int main(){
+    int n,m,s,t;
+    int test,dist,x,y,d,k;
+    node *temp,*nd;
+    int s2t[10001],visited[10001];
+    int i,vertex,ind;
+    std::list<node*> list[10000];
+    std::list<node*>::iterator end,it;
+    cin>>test;
+    while(test--){
+        cin>>n>>m>>k>>s>>t;
+        //cout<<s<<" "<<t<<endl;
+        size=n;
+        for(i=1;i<=m;i++){
+            cin>>x>>y>>d;
+            temp=new node;
+            temp->d=y;
+            temp->wt=d;
+            list[x].push_back(temp);
+        }
+        for(i=1;i<=k;i++){
+            cin>>x>>y>>d;
+            temp=new node;
+            temp->d=y;
+            temp->wt=d;
+            list[x].push_back(temp);
+            temp=new node;
+            temp->d=x;
+            temp->wt=d;
+            list[y].push_back(temp);
+        }
+        for(i=1;i<=n;i++){
+            v[i]=INT_MAX;
+            ix[i]=i;
+            s2t[i]=INT_MAX;
+            mapping[i]=i;
+            visited[i]=0;
+        }
+        v[s]=0;
+        heapify_up(s);
+        //cout<<s<<" "<<t<<" "<<v[s]<<" "<<v[1]<<endl;
+        while(size){
+            vertex=ix[1];
+            visited[vertex]=1;
+            dist=v[1];
+            s2t[vertex]=dist;
+            delmin();
+            //cout<<"min "<<vertex<<" "<<dist<<endl;
+            end=list[vertex].end();
+            for(it=list[vertex].begin();it!=end;it++){
+                nd=*it;
+                if(!visited[nd->d]&&v[mapping[nd->d]]>(dist+nd->wt)){
+                    v[mapping[nd->d]]=dist+nd->wt;
+                   // cout<<"v "<<vertex<<" dest "<<nd->d<<" "<<v[mapping[nd->d]]<<endl;
+                    heapify_up(mapping[nd->d]);
+                }
+                //else cout<<"s-d "<<vertex<<" "<<nd->d<<" "<<s2t[nd->d]<<endl;
+            }
+        }
+        if(s2t[t]==INT_MAX)
+            cout<<"-1"<<endl;
+        else cout<<s2t[t]<<endl;
+    }
+    return 0;
+}
